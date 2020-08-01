@@ -42,6 +42,8 @@ List of reverse-engineered and original retro-gaming sourcecode
 
 [Attack of the Mutant Camels](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) - Fully commented disassembly.
 
+[Commando](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) - Fully commented disassembly.
+
 [Hunchback](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
 
 ## NES / Famicom
