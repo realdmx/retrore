@@ -56,6 +56,12 @@ List of reverse-engineered and original retro-gaming sourcecode
 
 [Super Mario Bros 3](https://github.com/captainsouthbird/smb3) - Commented disassembly.
 
+## Gameboy
+
+[Pokémon Red + Blue (jp)](https://github.com/luckytyphlosion/pokered-jp) - Commented disassembly.
+
+[Pokémon Red + Blue](https://github.com/pret/pokered) - Commented disassembly.
+
 ## BBC
 
 [Stunt Car Racer](https://github.com/kieranhj/scr-beeb) - 68000, 6502. BBC Micro port of Stunt Car Racer, including 68k and 6502 disassembly.
