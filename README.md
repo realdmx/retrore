@@ -62,6 +62,8 @@ List of reverse-engineered and original retro-gaming sourcecode
 
 [Pokémon Red + Blue](https://github.com/pret/pokered) - Commented disassembly.
 
+[Tetris](https://github.com/alexsteb/tetris_disassembly) - Partially commented disassembly.
+
 ## BBC
 
 [Stunt Car Racer](https://github.com/kieranhj/scr-beeb) - 68000, 6502. BBC Micro port of Stunt Car Racer, including 68k and 6502 disassembly.
