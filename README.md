@@ -8,6 +8,7 @@ List of reverse-engineered and original retro-gaming sourcecode
 ## Arcade
 
 [Asteroids (Arcade)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
+[Robotron 2084](http://seanriddle.com/robomame.asm) - Fully commented 6800 disassembly.
 
 ## Atari 400 / 800
 
