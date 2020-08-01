@@ -3,24 +3,24 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Amiga
 
-[Stunt Car Racer](https://github.com/kieranhj/scr-beeb/blob/master/sources/StuntCarRacer.s) - Partially commented 68k disassembly (?), part of the BBC Micro port.
+[Stunt Car Racer (1989)](https://github.com/kieranhj/scr-beeb/blob/master/sources/StuntCarRacer.s) - Partially commented 68k disassembly (?), part of the BBC Micro port.
 
 ### Arcade
 
-[Asteroids (Arcade)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
-[Robotron 2084](http://seanriddle.com/robomame.asm) - Fully commented 6800 disassembly.
+[Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
+[Robotron 2084 (1982)](http://seanriddle.com/robomame.asm) - Fully commented 6800 disassembly.
 
 ### Atari 400 / 800
 
-[Fort Apocalypse](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
+[Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
 
 ### Atari 7800
 
-[Asteroids](https://github.com/videogamepreservation/asteroids-7800) - Original 6502 sourcecode.
+[Asteroids (1987)](https://github.com/videogamepreservation/asteroids-7800) - Original 6502 sourcecode.
 
 [Centipede](https://github.com/videogamepreservation/centipede-7800) - Original 6502 sourcecode.
 
-[Commando](https://github.com/videogamepreservation/commando-7800) - Original 6502 sourcecode.
+[Commando (1989)](https://github.com/videogamepreservation/commando-7800) - Original 6502 sourcecode.
 
 [Dig Dug](https://github.com/videogamepreservation/digdug-7800) - Original 6502 sourcecode.
 
@@ -41,13 +41,13 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### C64 / 128
 
-[Attack of the Mutant Camels](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) - Fully commented disassembly.
+[Attack of the Mutant Camels (1983)](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) - Fully commented disassembly.
 
-[Commando](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) - Fully commented disassembly.
+[Commando (1985)](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) - Fully commented disassembly.
 
-[Hunchback](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
+[Hunchback (1984)](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
 
-[Stunt Car Racer](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented C64 disassembly, from the BBC port project.
+[Stunt Car Racer (1989)](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented C64 disassembly, from the BBC port project.
 
 ### NES / Famicom
 
@@ -55,7 +55,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
 
-[Super Mario Bros](https://gist.github.com/1wErt3r/4048722) - Fully commented disassembly.
+[Super Mario Bros (1985)](https://gist.github.com/1wErt3r/4048722) - Fully commented disassembly.
 
 [Super Mario Bros 3](https://github.com/captainsouthbird/smb3) - Commented disassembly.
 
