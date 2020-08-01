@@ -62,6 +62,14 @@ List of reverse-engineered and original retro-gaming sourcecode
 
 [Pokémon Red + Blue](https://github.com/pret/pokered) - Commented disassembly.
 
+[Pokémon Pinball](https://github.com/pret/pokepinball) - Commented disassembly.
+
+[Pokémon Space World 1997 Gold Proto](https://github.com/pret/pokegold-spaceworld) - WIP commented disassembly.
+
+[Pokémon TCG](https://github.com/pret/poketcg) - Commented disassembly.
+
+[Pokémon Yellow](https://github.com/pret/pokeyellow) - Fully commented disassembly.
+
 [Tetris](https://github.com/alexsteb/tetris_disassembly) - Partially commented disassembly.
 
 ## BBC
