@@ -3,7 +3,7 @@ List of reverse-engineered and original retro-gaming sourcecode
 
 ## Amiga
 
-[Stunt Car Racer](https://github.com/kieranhj/scr-beeb) - 68000, 6502. BBC Micro port of Stunt Car Racer, includes 68k and 6502 disassembly.
+[Stunt Car Racer](https://github.com/kieranhj/scr-beeb/blob/master/sources/StuntCarRacer.s) - Partially commented 68k disassembly (?), part of the BBC Micro port.
 
 ## Arcade
 
