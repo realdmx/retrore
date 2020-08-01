@@ -50,7 +50,9 @@ List of reverse-engineered and original retro-gaming sourcecode
 
 [Dragon Warrior (NES)](https://github.com/nmikstas/dragon-warrior-disassembly) - Fully commented disassembly.
 
-[Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.'
+[Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
+
+[Super Mario Bros](https://gist.github.com/1wErt3r/4048722) - Fully commented disassembly.
 
 [Super Mario Bros 3](https://github.com/captainsouthbird/smb3) - Commented disassembly.
 
