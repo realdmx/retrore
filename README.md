@@ -1,5 +1,5 @@
-# retrore
-List of reverse-engineered and original retro-gaming sourcecode
+# RetroRE
+A brief and incomplete list of reverse-engineered and original retro-gaming sourcecode.
 
 ## Amiga
 
