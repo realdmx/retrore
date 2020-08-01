@@ -7,11 +7,11 @@ List of reverse-engineered and original retro-gaming sourcecode
 
 ## Arcade
 
+[Asteroids (Arcade)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
+
 ## Atari 400 / 800
 
 [Fort Apocalypse](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
-
-[Asteroids (Arcade)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
 
 ## Atari 7800
 
