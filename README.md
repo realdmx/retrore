@@ -9,6 +9,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
 
+[Crazy Climber (1980)](https://en.wikipedia.org/wiki/Crazy_Climber) - Commented z80 disassembly and memory maps.
+
 [Robotron 2084 (1982)](http://seanriddle.com/robomame.asm) - Fully commented 6800 disassembly.
 
 [Space Invaders (1978)](http://www.computerarcheology.com/Arcade/SpaceInvaders/Code.html) - Fully commented 8080 disassembly.
