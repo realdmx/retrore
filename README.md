@@ -23,6 +23,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Star Raiders (1979)](https://github.com/lwiest/StarRaiders) - Fully commented disassembly.
 
+[Star Raiders (1979)](https://archive.org/details/AtariStarRaidersSourceCode) - Original source code listing from paper.
+
 ### Atari 7800
 
 [Asteroids (1987)](https://github.com/videogamepreservation/asteroids-7800) - Original 6502 sourcecode.
