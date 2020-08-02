@@ -61,6 +61,10 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Gameboy
 
+[Legend of Zelda - Oracles of Ages and Seasons](https://github.com/Drenn1/oracles-disasm) - [GBC] Commented disassembly.
+
+[Link's Awakening DX](https://github.com/zladx/LADX-Disassembly) - Partially commented disassembly.
+
 [Pokémon Red + Blue (jp)](https://github.com/luckytyphlosion/pokered-jp) - Commented disassembly.
 
 [Pokémon Red + Blue](https://github.com/pret/pokered) - Commented disassembly.
