@@ -11,6 +11,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Robotron 2084 (1982)](http://seanriddle.com/robomame.asm) - Fully commented 6800 disassembly.
 
+[Space Invaders (1978)](http://www.computerarcheology.com/Arcade/SpaceInvaders/Code.html) - Fully commented 8080 disassembly.
+
 [Space Invaders (1978)](https://github.com/loadzero/si78c) - Memory-accurate reimplementation in C.
 
 ### Atari 400 / 800
