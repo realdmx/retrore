@@ -8,6 +8,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 ### Arcade
 
 [Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
+
 [Robotron 2084 (1982)](http://seanriddle.com/robomame.asm) - Fully commented 6800 disassembly.
 
 ### Atari 400 / 800
@@ -81,7 +82,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### BBC
 
-[Stunt Car Racer](https://github.com/kieranhj/scr-beeb) - 68000, 6502. BBC Micro port of Stunt Car Racer, including 68k and 6502 disassembly.
+[Stunt Car Racer](https://github.com/kieranhj/scr-beeb) - 68000, 6502. BBC Micro port of Stunt Car Racer.
 
 ### MS-DOS
 
