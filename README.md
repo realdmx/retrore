@@ -21,6 +21,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
 
+[Star Raiders (1979)](https://github.com/lwiest/StarRaiders) - Fully commented disassembly.
+
 ### Atari 7800
 
 [Asteroids (1987)](https://github.com/videogamepreservation/asteroids-7800) - Original 6502 sourcecode.
