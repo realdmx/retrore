@@ -54,9 +54,19 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Attack of the Mutant Camels (1983)](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) - Fully commented disassembly.
 
+[Beach Head (1983)](https://csdb.dk/release/?id=111671) - Fully commented disassembly.
+
+[Bounty Bob Strikes Back (1984)](https://csdb.dk/release/?id=155889) - Fully commented disassembly.
+
+[Castles of Dr. Creep III (1984)](https://csdb.dk/release/?id=95815) - Fully commented disassembly.
+
 [Commando (1985)](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) - Fully commented disassembly.
 
+[Lode Runner (1983)](https://csdb.dk/release/?id=92529) - Fully commented disassembly.
+
 [Hunchback (1984)](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
+
+[Miner 2049'er (1983)](https://csdb.dk/release/?id=108015) - Fully commented disassembly.
 
 [Stunt Car Racer (1989)](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented C64 disassembly, from the BBC port project.
 
