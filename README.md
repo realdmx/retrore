@@ -17,6 +17,10 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Space Invaders (1978)](https://github.com/loadzero/si78c) - Memory-accurate reimplementation in C.
 
+### Atari 2600
+
+[Pitfall](https://github.com/johnidm/asm-atari-2600/blob/master/pitfall.asm) - Commented disassembly.
+
 ### Atari 400 / 800
 
 [Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
@@ -113,6 +117,10 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 [Pokémon Yellow](https://github.com/pret/pokeyellow) - Fully commented disassembly.
 
 [Tetris](https://github.com/alexsteb/tetris_disassembly) - Partially commented disassembly.
+
+### Super Nintendo (SNES)
+
+[Yoshi's Island](https://github.com/Raidenthequick/yoshisisland-disassembly) - Partially commented disassembly.
 
 ### BBC
 
