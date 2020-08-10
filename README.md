@@ -72,13 +72,21 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### NES / Famicom
 
+[Balloon Fight (1984)](https://github.com/LuigiBlood/balloonfight_dis) - Commented disassembly.
+
 [Dragon Warrior (NES)](https://github.com/nmikstas/dragon-warrior-disassembly) - Fully commented disassembly.
+
+[Final Fantasy (1987)](https://github.com/Entroper/FF1Disassembly) - Fully commented disassembly.
+
+[Mega Man 3 (1990)](https://github.com/Raidenthequick/megaman3-disassembly - Partially commented disassembly.
 
 [Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
 
 [Super Mario Bros (1985)](https://gist.github.com/1wErt3r/4048722) - Fully commented disassembly.
 
 [Super Mario Bros 3](https://github.com/captainsouthbird/smb3) - Commented disassembly.
+
+[Zelda, The Legend Of (1985)](https://github.com/camthesaxman/zeldasource) - WIP, partially commented dissembly.
 
 ### Gameboy
 
