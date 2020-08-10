@@ -129,3 +129,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 ### MS-DOS
 
 [S.C.OUT](https://github.com/Diskutant/S.C.Out) - Original C sourcecode.
+
+### Other links, resources, sources
+
+https://www.retroreversing.com/source-code/decompiled-retail-console-games
