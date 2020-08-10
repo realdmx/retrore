@@ -78,7 +78,13 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Final Fantasy (1987)](https://github.com/Entroper/FF1Disassembly) - Fully commented disassembly.
 
-[Mega Man 3 (1990)](https://github.com/Raidenthequick/megaman3-disassembly - Partially commented disassembly.
+[Mega Man 3 (1990)](https://github.com/Raidenthequick/megaman3-disassembly) - Partially commented disassembly.
+
+[Mega Man 4 (1991)](https://github.com/Raidenthequick/megaman4-disassembly) - Partially commented disassembly.
+
+[Mega Man 5 (1992)](https://github.com/Raidenthequick/megaman5-disassembly) - Partially commented disassembly.
+
+[Mega Man 6 (1993)](https://github.com/Raidenthequick/megaman6-disassembly) - Partially commented disassembly.
 
 [Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
 
