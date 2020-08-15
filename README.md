@@ -106,6 +106,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Link's Awakening DX](https://github.com/zladx/LADX-Disassembly) - Partially commented disassembly.
 
+[Mr. Do!](http://www.pauliehughes.com//index_htm_files/mrdo.asm) - Original Z80 sourcecode.
+
 [Pokémon Red + Blue (jp)](https://github.com/luckytyphlosion/pokered-jp) - Commented disassembly.
 
 [Pokémon Red + Blue](https://github.com/pret/pokered) - Commented disassembly.
