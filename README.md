@@ -5,6 +5,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Stunt Car Racer (1989)](https://github.com/kieranhj/scr-beeb/blob/master/sources/StuntCarRacer.s) - Partially commented 68k disassembly (?), part of the BBC Micro port.
 
+[Escape from Colditz (1991)](https://github.com/aperture-software/colditz-escape) - Reverse Engineered game engine.
+
 ### Arcade
 
 [Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
