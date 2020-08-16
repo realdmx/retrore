@@ -102,9 +102,13 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Gameboy
 
+[Beauty and the Beast Boardgame Adventure (1999)](https://github.com/dashxdr/cgb/tree/master/code/gb/bb) - Original GBC sourcecode.
+
 [Legend of Zelda - Oracles of Ages and Seasons](https://github.com/Drenn1/oracles-disasm) - [GBC] Commented disassembly.
 
 [Link's Awakening DX](https://github.com/zladx/LADX-Disassembly) - Partially commented disassembly.
+
+[Little Mermaid II Pinball Frenzy](https://github.com/dashxdr/cgb/tree/master/code/gb/usamerm) - Original GBC sourcecode.
 
 [Mr. Do!](http://www.pauliehughes.com//index_htm_files/mrdo.asm) - Original Z80 sourcecode.
 
@@ -121,6 +125,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 [Pokémon Yellow](https://github.com/pret/pokeyellow) - Fully commented disassembly.
 
 [Tetris](https://github.com/alexsteb/tetris_disassembly) - Partially commented disassembly.
+
+[Thrillride Pinball (2000)](https://github.com/dashxdr/cgb/tree/master/code/gb/thrill) - Original GBC sourcecode.
 
 ### Super Nintendo (SNES)
 
