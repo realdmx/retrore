@@ -128,6 +128,10 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Thrillride Pinball (2000)](https://github.com/dashxdr/cgb/tree/master/code/gb/thrill) - Original GBC sourcecode.
 
+### Playstation
+
+[Crash Bandicoot 2 - Cortex Strikes Back (1997)](https://github.com/ughman/c2c) - MIPS to C reverse engineering.
+
 ### Super Nintendo (SNES)
 
 [Yoshi's Island](https://github.com/Raidenthequick/yoshisisland-disassembly) - Partially commented disassembly.
