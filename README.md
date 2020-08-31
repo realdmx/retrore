@@ -149,3 +149,5 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 ### Other links, resources, sources
 
 https://www.retroreversing.com/source-code/decompiled-retail-console-games
+http://bringerp.free.fr/RE/index.php5
+
