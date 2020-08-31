@@ -27,6 +27,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
 
+[M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
+
 [Star Raiders (1979)](https://github.com/lwiest/StarRaiders) - Fully commented disassembly.
 
 [Star Raiders (1979)](https://archive.org/details/AtariStarRaidersSourceCode) - Original source code listing from paper.
