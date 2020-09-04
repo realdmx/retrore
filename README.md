@@ -70,6 +70,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Commando (1985)](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) - Fully commented disassembly.
 
+[Elite (1985)](https://github.com/Kroc/elite-harmless) - Commented disassembly and patches.
+
 [Lode Runner (1983)](https://csdb.dk/release/?id=92529) - Fully commented disassembly.
 
 [Hunchback (1984)](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
