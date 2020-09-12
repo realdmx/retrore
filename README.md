@@ -25,11 +25,17 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Atari 400 / 800
 
-[Dandy](https://archive.org/details/Dandy_source) - Original 6502 sourcecode.
+[Dandy (1983)](https://archive.org/details/Dandy_source) - Original 6502 sourcecode.
 
 [Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
 
 [M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
+
+[Preppie! (1982)](https://archive.org/details/Preppie) - Original sourcecode.
+
+[Preppie! II (1983)](https://archive.org/details/Preppie_II) - Original sourcecode.
+
+[Sea Dragon (1982)](https://archive.org/details/Sea_Dragon) - Original sourcecode.
 
 [Star Raiders (1979)](https://github.com/lwiest/StarRaiders) - Fully commented disassembly.
 
