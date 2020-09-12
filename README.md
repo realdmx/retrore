@@ -60,6 +60,12 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### C64 / 128
 
+[Alien 3 (1992)](https://github.com/milkeybabes/Alien3-C64) - Original sourcecode.
+
+[Altered Beast (1989)](https://github.com/milkeybabes/Altered-Beast) - Original sourcecode.
+
+[Atomic Robokid (1990)](https://github.com/milkeybabes/Atomic-Robokid) - Original sourcecode.
+
 [Attack of the Mutant Camels (1983)](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) - Fully commented disassembly.
 
 [Beach Head (1983)](https://csdb.dk/release/?id=111671) - Fully commented disassembly.
@@ -77,6 +83,12 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 [Hunchback (1984)](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
 
 [Miner 2049'er (1983)](https://csdb.dk/release/?id=108015) - Fully commented disassembly.
+
+[Nemesis the Warlock (1987)](https://github.com/milkeybabes/Nemesis-the-Warlock) - Original sourcecode.
+
+[Rampage (1987)](https://github.com/milkeybabes/Rampage) - Original sourcecode.
+
+[Slaine (1987)](https://github.com/milkeybabes/Slaine) - Original sourcecode.
 
 [Stunt Car Racer (1989)](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented C64 disassembly, from the BBC port project.
 
@@ -153,4 +165,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 https://www.retroreversing.com/source-code/decompiled-retail-console-games
 
 http://bringerp.free.fr/RE/index.php5
+
+https://github.com/milkeybabes
+
+
 
