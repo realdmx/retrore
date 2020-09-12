@@ -7,6 +7,10 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Escape from Colditz (1991)](https://github.com/aperture-software/colditz-escape) - Reverse Engineered game engine.
 
+### Apple II
+
+[Prince of Persia (1989)](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Original 6502 sourcecode.
+
 ### Arcade
 
 [Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
