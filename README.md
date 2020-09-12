@@ -25,6 +25,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Atari 400 / 800
 
+[Dandy](https://archive.org/details/Dandy_source) - Original 6502 sourcecode.
+
 [Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
 
 [M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
@@ -157,6 +159,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 [Stunt Car Racer](https://github.com/kieranhj/scr-beeb) - 68000, 6502. BBC Micro port of Stunt Car Racer.
 
 ### MS-DOS
+
+[Beyond Castle Wolfenstein](https://archive.org/details/BeyondCastleWolfenstein_source) - Fully commented 8086 disassembly.
 
 [S.C.OUT](https://github.com/Diskutant/S.C.Out) - Original C sourcecode.
 
