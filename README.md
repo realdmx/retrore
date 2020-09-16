@@ -108,6 +108,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Balloon Fight (1984)](https://github.com/LuigiBlood/balloonfight_dis) - Commented disassembly.
 
+[Days of Thunder - Unreleased (1990)](https://github.com/DickBlackshack/Days-of-Thunder-NES-Unpublished) - Original sourcecode. Game was never released.
+
 [Dragon Warrior (NES)](https://github.com/nmikstas/dragon-warrior-disassembly) - Fully commented disassembly.
 
 [Final Fantasy (1987)](https://github.com/Entroper/FF1Disassembly) - Fully commented disassembly.
