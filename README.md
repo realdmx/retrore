@@ -162,6 +162,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Crash Bandicoot 2 - Cortex Strikes Back (1997)](https://github.com/ughman/c2c) - MIPS to C reverse engineering.
 
+[Doom](https://github.com/Erick194/PSXDOOM-RE) - Complete reverse-engineered C sourcecode.
+
 ### Super Nintendo (SNES)
 
 [Yoshi's Island](https://github.com/Raidenthequick/yoshisisland-disassembly) - Partially commented disassembly.
