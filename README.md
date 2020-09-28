@@ -168,7 +168,9 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### BBC
 
-[Stunt Car Racer](https://github.com/kieranhj/scr-beeb) - 68000, 6502. BBC Micro port of Stunt Car Racer.
+[Elite (1984)](https://github.com/markmoxon/elite-beebasm) - Original 6502 sourcecode.
+
+[Stunt Car Racer (2019)](https://github.com/kieranhj/scr-beeb) - 6502. BBC Micro port of Stunt Car Racer.
 
 ### MS-DOS
 
