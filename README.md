@@ -2,37 +2,59 @@
 
 A brief and incomplete list of reverse-engineered and original retro-gaming sourcecode for systems based on my favourite CPU, the 6502.
 
-### Apple II (6502)
+### Apple II
 
-[Prince of Persia (1989)](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Original 6502 sourcecode.
+[Prince of Persia (1989)](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Original sourcecode.
 
-### Arcade (6502)
+### Arcade
 
-[Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - 6502, Vector. Fully commented disassembly.
+[Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - Fully commented disassembly.
 
-### Atari 2600 (6502)
+### Atari 2600
+
+[A-Team (19xx)](http://www.qotile.net/minidig/disassembly/a-team.asm) - Partially commented disassembly.
+
+[Air Sea Battle (1977)](http://www.qotile.net/minidig/disassembly/air_sea_battle.asm) - Fully commented disassembly.
+
+[Berzerk (1982)](http://www.qotile.net/minidig/disassembly/berzerk.asm) - Fully commented disassembly.
+
+[Combat (1977)](http://www.qotile.net/minidig/disassembly/dicombat.asm) - Fully commented disassembly.
+
+[Cosmic Ark (1982)](http://www.qotile.net/minidig/disassembly/CosmicArk.asm) - Fully commented disassembly.
+
+[Donkey Kong (1982)](http://www.qotile.net/minidig/disassembly/dk.asm) - Fully commented disassembly.
+
+[Dragonfire (1982)](http://www.qotile.net/minidig/disassembly/dfire.asm) - Commented disassembly.
+
+[Freeway (1981)](http://www.qotile.net/minidig/disassembly/freeway.asm) - Fully commented disassembly.
+
+[Haunted House (1982)](https://github.com/brandonrobertz/haunted_house_disassembly) - Partially commented disassembly. WIP.
+
+[Indy 500 (1977)](http://www.qotile.net/minidig/disassembly/indy_500_pass_01.asm) - Partially commented disassembly.
+
+[Jawbreaker (1982)](http://www.qotile.net/minidig/disassembly/jaw_breaker.asm) - Fully commented disassembly.
+
+[Kaboom (1981)](http://www.qotile.net/minidig/disassembly/kaboom.asm) - Fully commented disassembly.
+
+[Outlaw (1978)](http://www.qotile.net/minidig/disassembly/outlaw.asm)- Fully commented disassembly.
 
 [Pitfall! (1982)](https://github.com/johnidm/asm-atari-2600/blob/master/pitfall.asm) - Commented disassembly.
 
-### Atari 400 / 800 (6502)
+[Pitfall! (1982)](http://www.qotile.net/minidig/disassembly/pitfall.asm) - Fully commented disassembly.
 
-[Dandy (1983)](https://archive.org/details/Dandy_source) - Original 6502 sourcecode.
+[Riddle of the Sphinx / Dank Tower (1982)](http://www.qotile.net/minidig/disassembly/riddle-pal.asm) - Fully commented disassembly.
 
-[Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
+[River Raid (1982)](http://www.qotile.net/minidig/disassembly/RiverRaid.asm) - Fully commented disassembly.
 
-[M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
+[Space Jockey (1982)](http://www.qotile.net/minidig/disassembly/space_jockey.asm) - Fully commented disassembly.
 
-[Preppie! (1982)](https://archive.org/details/Preppie) - Original sourcecode.
+[Star Master (1982)](http://www.qotile.net/minidig/disassembly/Starmaster.asm) - Fully commented disassembly.
 
-[Preppie! II (1983)](https://archive.org/details/Preppie_II) - Original sourcecode.
+[Surround (1977)](http://www.qotile.net/minidig/disassembly/surround.asm) - Fully commented disassembly.
 
-[Sea Dragon (1982)](https://archive.org/details/Sea_Dragon) - Original sourcecode.
+[Venture (1981)](http://www.qotile.net/minidig/disassembly/venture.asm) - Fully commented disassembly.
 
-[Star Raiders (1979)](https://github.com/lwiest/StarRaiders) - Fully commented disassembly.
-
-[Star Raiders (1979)](https://archive.org/details/AtariStarRaidersSourceCode) - Original source code listing from paper.
-
-### Atari 7800 (6502)
+### Atari 7800
 
 [Asteroids (1987)](https://github.com/videogamepreservation/asteroids-7800) - Original sourcecode.
 
@@ -62,7 +84,25 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Xevious (1986)](https://github.com/videogamepreservation/xevious-7800) - Original sourcecode.
 
-### C64 (6502)
+### Atari 8-bit
+
+[Dandy (1983)](https://archive.org/details/Dandy_source) - Original 6502 sourcecode.
+
+[Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
+
+[M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
+
+[Preppie! (1982)](https://archive.org/details/Preppie) - Original sourcecode.
+
+[Preppie! II (1983)](https://archive.org/details/Preppie_II) - Original sourcecode.
+
+[Sea Dragon (1982)](https://archive.org/details/Sea_Dragon) - Original sourcecode.
+
+[Star Raiders (1979)](https://github.com/lwiest/StarRaiders) - Fully commented disassembly.
+
+[Star Raiders (1979)](https://archive.org/details/AtariStarRaidersSourceCode) - Original source code listing from paper.
+
+### C64
 
 [Alien 3 (1992)](https://github.com/milkeybabes/Alien3-C64) - Original sourcecode.
 
@@ -94,9 +134,9 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Slaine (1987)](https://github.com/milkeybabes/Slaine) - Original sourcecode.
 
-[Stunt Car Racer (1989)](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented C64 disassembly, from the BBC port project.
+[Stunt Car Racer (1989)](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented disassembly, from the BBC port project.
 
-### NES (6502)
+### NES
 
 [Balloon Fight (1984)](https://github.com/LuigiBlood/balloonfight_dis) - Commented disassembly.
 
@@ -122,7 +162,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Zelda, The Legend Of (1985)](https://github.com/camthesaxman/zeldasource) - WIP, partially commented dissembly.
 
-### BBC (6502)
+### BBC
 
 [Elite (1984)](https://github.com/markmoxon/elite-beebasm) - Original sourcecode.
 
@@ -130,12 +170,13 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Other links, resources, sources
 
-http://bringerp.free.fr/RE/index.php5
+http://bringerp.free.fr/RE/index.php5 - MULE and others.
 
-https://github.com/milkeybabes
+https://github.com/milkeybabes - C64 original sources.
 
-https://github.com/billbudge
+https://github.com/billbudge - Author of Pinball Construction Set.
 
+http://www.qotile.net/minidig/index.html - Several Atari 2600 disassembly sources.
 
 
 
