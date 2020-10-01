@@ -26,6 +26,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Dragonfire (1982)](http://www.qotile.net/minidig/disassembly/dfire.asm) - Commented disassembly.
 
+[Dragster (1980)](https://github.com/MrWint/dragster) - Commented disassembly.
+
 [Freeway (1981)](http://www.qotile.net/minidig/disassembly/freeway.asm) - Fully commented disassembly.
 
 [Haunted House (1982)](https://github.com/brandonrobertz/haunted_house_disassembly) - Partially commented disassembly. WIP.
