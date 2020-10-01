@@ -12,7 +12,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Atari 2600 (6502)
 
-[Pitfall](https://github.com/johnidm/asm-atari-2600/blob/master/pitfall.asm) - Commented disassembly.
+[Pitfall! (1982)](https://github.com/johnidm/asm-atari-2600/blob/master/pitfall.asm) - Commented disassembly.
 
 ### Atari 400 / 800 (6502)
 
@@ -34,27 +34,33 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Atari 7800 (6502)
 
-[Asteroids (1987)](https://github.com/videogamepreservation/asteroids-7800) - Original 6502 sourcecode.
+[Asteroids (1987)](https://github.com/videogamepreservation/asteroids-7800) - Original sourcecode.
 
-[Centipede (1987)](https://github.com/videogamepreservation/centipede-7800) - Original 6502 sourcecode.
+[Centipede (1987)](https://github.com/videogamepreservation/centipede-7800) - Original sourcecode.
 
-[Commando (1989)](https://github.com/videogamepreservation/commando-7800) - Original 6502 sourcecode.
+[Commando (1989)](https://github.com/videogamepreservation/commando-7800) - Original sourcecode.
 
-[Dig Dug (1987)](https://github.com/videogamepreservation/digdug-7800) - Original 6502 sourcecode.
+[Crossbow (1988)](https://github.com/OpenSourcedGames/Atari-7800/tree/master/CROSSBOW/C) - Original sourcecode.
 
-[Galaga (1986)](https://github.com/videogamepreservation/galaga-7800) - Original 6502 sourcecode.
+[Dig Dug (1987)](https://github.com/videogamepreservation/digdug-7800) - Original sourcecode.
 
-[Hat-Trick (1987)](https://github.com/videogamepreservation/hattrick-7800) - Original 6502 sourcecode.
+[Food Fight (1987)](https://github.com/OpenSourcedGames/Atari-7800/tree/master/FOODFIGHT) - Original sourcecode.
 
-[Joust (1988)](https://github.com/videogamepreservation/joust-7800) - Original 6502 sourcecode.
+[Galaga (1986)](https://github.com/videogamepreservation/galaga-7800) - Original sourcecode.
 
-[Ms. PacMan (1986)](https://github.com/videogamepreservation/mspacman-7800) - Original 6502 sourcecode.
+[Hat-Trick (1987)](https://github.com/videogamepreservation/hattrick-7800) - Original sourcecode.
 
-[Sphinx](https://github.com/videogamepreservation/sphinx-7800) - Original 6502 sourcecode.
+[Joust (1988)](https://github.com/videogamepreservation/joust-7800) - Original sourcecode.
 
-[Robotron: 2084 (1987)](https://github.com/videogamepreservation/robotron-7800) - Original 6502 sourcecode.
+[Ms. PacMan (1986)](https://github.com/videogamepreservation/mspacman-7800) - Original sourcecode.
 
-[Xevious (1986)](https://github.com/videogamepreservation/xevious-7800) - Original 6502 sourcecode.
+[Sphinx](https://github.com/videogamepreservation/sphinx-7800) - Original sourcecode.
+
+[Super Stunt Cycle (1989)](https://github.com/OpenSourcedGames/Atari-7800/tree/master/super_stunt_cycle) - Original sourcecode.
+
+[Robotron: 2084 (1987)](https://github.com/videogamepreservation/robotron-7800) - Original sourcecode.
+
+[Xevious (1986)](https://github.com/videogamepreservation/xevious-7800) - Original sourcecode.
 
 ### C64 (6502)
 
@@ -118,7 +124,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### BBC (6502)
 
-[Elite (1984)](https://github.com/markmoxon/elite-beebasm) - Original 6502 sourcecode.
+[Elite (1984)](https://github.com/markmoxon/elite-beebasm) - Original sourcecode.
 
 [Stunt Car Racer (2019)](https://github.com/kieranhj/scr-beeb) - 6502. BBC Micro port of Stunt Car Racer.
 
