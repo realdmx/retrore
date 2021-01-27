@@ -136,6 +136,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Slaine (1987)](https://github.com/milkeybabes/Slaine) - Original sourcecode.
 
+[Skool Daze (1984)](https://skoolkid.github.io/sk6502/sdc64) - Commented disassembly.
+
 [Stunt Car Racer (1989)](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented disassembly, from the BBC port project.
 
 ### NES
