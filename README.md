@@ -104,6 +104,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Star Raiders (1979)](https://archive.org/details/AtariStarRaidersSourceCode) - Original source code listing from paper.
 
+[Up'n Down (1983)](https://archive.org/details/UpNDown_source/UpNDown2) - Original source code listing from paper.
+
 ### C64
 
 [Alien 3 (1992)](https://github.com/milkeybabes/Alien3-C64) - Original sourcecode.
