@@ -4,6 +4,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Apple II
 
+[Pinball Construction Set (1982)](https://github.com/billbudge/PCS_AppleII) - Original sourcecoce.
 [Prince of Persia (1989)](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Original sourcecode.
 
 ### Arcade
@@ -30,7 +31,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Freeway (1981)](http://www.qotile.net/minidig/disassembly/freeway.asm) - Fully commented disassembly.
 
-[Haunted House (1982)](https://github.com/brandonrobertz/haunted_house_disassembly) - Partially commented disassembly. WIP.
+[Haunted House (1982)](https://github.com/brandonrobertz/haunted_house_disassembly) - Partially commented disassembly (WIP).
 
 [Indy 500 (1977)](http://www.qotile.net/minidig/disassembly/indy_500_pass_01.asm) - Partially commented disassembly.
 
@@ -95,6 +96,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 [Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original sourcecode.
 
 [M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
+
+[Pinball Construction Set (1983)](https://github.com/billbudge/PCS_Atari800) - Original sourcecode.
 
 [Preppie! (1982)](https://archive.org/details/Preppie) - Original sourcecode.
 
