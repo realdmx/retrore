@@ -88,9 +88,11 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Atari 8-bit
 
-[Dandy (1983)](https://archive.org/details/Dandy_source) - Original 6502 sourcecode.
+[Buck Rogers: Planet of Zoom](https://archive.org/details/BuckRogers_source) - Original source code listing from paper.
 
-[Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original 6502 sourcecode.
+[Dandy (1983)](https://archive.org/details/Dandy_source) - Original sourcecode.
+
+[Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original sourcecode.
 
 [M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
 
