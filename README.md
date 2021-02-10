@@ -166,6 +166,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Zelda, The Legend Of (1985)](https://github.com/camthesaxman/zeldasource) - WIP, partially commented dissembly.
 
+[Zelda, The Legend Of (1985)](https://github.com/aldonunez/zelda1-disassembly) - Fully commented disassembly.
+
 ### BBC
 
 [Elite (1984)](https://github.com/markmoxon/elite-beebasm) - Original sourcecode.
