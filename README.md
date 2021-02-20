@@ -171,7 +171,7 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Super Mario Bros 3](https://github.com/captainsouthbird/smb3) - Commented disassembly.
 
-[Zelda, The Legend Of (1985)](https://github.com/camthesaxman/zeldasource) - WIP, partially commented dissembly.
+[Zelda, The Legend Of (1985)](https://github.com/camthesaxman/zeldasource) - WIP, partially commented disassembly.
 
 [Zelda, The Legend Of (1985)](https://github.com/aldonunez/zelda1-disassembly) - Fully commented disassembly.
 
@@ -180,6 +180,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 [Elite (1984)](https://github.com/markmoxon/elite-beebasm) - Original sourcecode.
 
 [Stunt Car Racer (2019)](https://github.com/kieranhj/scr-beeb) - 6502. BBC Micro port of Stunt Car Racer.
+
+[Thrust (1986)](https://github.com/kieranhj/thrust-disassembly) - Fully commented disassembly.
 
 ### Other links, resources, sources
 
