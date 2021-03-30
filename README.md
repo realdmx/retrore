@@ -102,6 +102,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
 
+[PAC-MAN (1982)](https://atariwiki.org/wiki/Wiki.jsp?page=PAC-MAN) - Original sourcecode. 
+
 [Pinball Construction Set (1983)](https://github.com/billbudge/PCS_Atari800) - Original sourcecode.
 
 [Preppie! (1982)](https://archive.org/details/Preppie) - Original sourcecode.
