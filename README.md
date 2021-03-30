@@ -98,6 +98,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Dandy (1983)](https://archive.org/details/Dandy_source) - Original sourcecode.
 
+[Donkey Kong (1983)](https://atariage.com/forums/topic/130904-donkey-kong-source-code) - Original sourcecode.
+
 [Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original sourcecode.
 
 [M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
