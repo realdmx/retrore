@@ -92,6 +92,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Atari 8-bit
 
+[Blue Max (1983)](https://atariage.com/forums/topic/249933-blue-max-source-code-for-you) - Original source code in this thread.
+
 [Bruce Lee (1984)](https://github.com/fa8ntomas/blck-game-engine) - Commented disassembly.
 
 [Buck Rogers: Planet of Zoom](https://archive.org/details/BuckRogers_source) - Original source code listing from paper.
