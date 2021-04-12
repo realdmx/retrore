@@ -114,6 +114,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Preppie! II (1983)](https://archive.org/details/Preppie_II) - Original sourcecode.
 
+[Princess and the Frog, The (1982)](https://github.com/savetz/edfries-frog) - Original sourcecode.
+
 [Sea Dragon (1982)](https://archive.org/details/Sea_Dragon) - Original sourcecode.
 
 [Star Raiders (1979)](https://github.com/lwiest/StarRaiders) - Fully commented disassembly.
