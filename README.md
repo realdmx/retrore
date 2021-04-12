@@ -92,6 +92,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 ### Atari 8-bit
 
+[Anteater (1982)](https://github.com/savetz/edfries-anteater) - Original sourcecode.
+
 [Blue Max (1983)](https://atariage.com/forums/topic/249933-blue-max-source-code-for-you) - Original source code in this thread.
 
 [Bruce Lee (1984)](https://github.com/fa8ntomas/blck-game-engine) - Commented disassembly.
@@ -115,6 +117,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 [Preppie! II (1983)](https://archive.org/details/Preppie_II) - Original sourcecode.
 
 [Princess and the Frog, The (1982)](https://github.com/savetz/edfries-frog) - Original sourcecode.
+
+[Sea Chase (1983)](https://github.com/savetz/edfries-seachase) - Original sourcecode.
 
 [Sea Dragon (1982)](https://archive.org/details/Sea_Dragon) - Original sourcecode.
 
