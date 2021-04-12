@@ -148,6 +148,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Hunchback (1984)](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
 
+[Laser Zone (1983)](https://github.com/BumblingCoda/Llamasoft-Laser-Zone-WIP) - Commented disassembly. WIP.
+
 [Miner 2049'er (1983)](https://csdb.dk/release/?id=108015) - Fully commented disassembly.
 
 [Nemesis the Warlock (1987)](https://github.com/milkeybabes/Nemesis-the-Warlock) - Original sourcecode.
