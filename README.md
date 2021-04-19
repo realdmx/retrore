@@ -200,6 +200,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Elite (1984)](https://github.com/markmoxon/elite-beebasm) - Original sourcecode.
 
+[Manic Miner (1984)](https://github.com/TobyLobster/ManicMiner) - Fully commented disassembly.
+
 [Stunt Car Racer (2019)](https://github.com/kieranhj/scr-beeb) - 6502. BBC Micro port of Stunt Car Racer.
 
 [Thrust (1986)](https://github.com/kieranhj/thrust-disassembly) - Fully commented disassembly.
