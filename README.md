@@ -10,6 +10,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Prince of Persia (1989)](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Original sourcecode.
 
+[Robotron 2084 (1983)](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Apple).asm) - Commented disassembly.
+
 ### Arcade
 
 [Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - Fully commented disassembly.
@@ -84,11 +86,13 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Ms. PacMan (1986)](https://github.com/videogamepreservation/mspacman-7800) - Original sourcecode.
 
+[Robotron 2084) (1987)](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Atari).asm) - Commented disassembly.
+
+[Robotron: 2084 (1987)](https://github.com/videogamepreservation/robotron-7800) - Original sourcecode.
+
 [Sphinx](https://github.com/videogamepreservation/sphinx-7800) - Original sourcecode.
 
 [Super Stunt Cycle (1989)](https://github.com/OpenSourcedGames/Atari-7800/tree/master/super_stunt_cycle) - Original sourcecode.
-
-[Robotron: 2084 (1987)](https://github.com/videogamepreservation/robotron-7800) - Original sourcecode.
 
 [Xevious (1986)](https://github.com/videogamepreservation/xevious-7800) - Original sourcecode.
 
