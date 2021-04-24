@@ -48,6 +48,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Pitfall! (1982)](http://www.qotile.net/minidig/disassembly/pitfall.asm) - Fully commented disassembly.
 
+[Red vs. Blue (1981)](https://github.com/johnidm/asm-atari-2600/blob/master/redblue.asm) - Fully commented disassembly.
+
 [Riddle of the Sphinx / Dank Tower (1982)](http://www.qotile.net/minidig/disassembly/riddle-pal.asm) - Fully commented disassembly.
 
 [River Raid (1982)](http://www.qotile.net/minidig/disassembly/RiverRaid.asm) - Fully commented disassembly.
