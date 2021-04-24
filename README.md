@@ -192,6 +192,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Super Mario Bros 3](https://github.com/captainsouthbird/smb3) - Commented disassembly.
 
+[Tetris (1989)](https://github.com/CelestialAmber/TetrisNESDisasm) - Commented disassembly.
+
 [Zelda, The Legend Of (1985)](https://github.com/camthesaxman/zeldasource) - WIP, partially commented disassembly.
 
 [Zelda, The Legend Of (1985)](https://github.com/aldonunez/zelda1-disassembly) - Fully commented disassembly.
