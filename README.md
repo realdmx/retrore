@@ -184,6 +184,12 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Final Fantasy (1987)](https://github.com/Entroper/FF1Disassembly) - Fully commented disassembly.
 
+[HeroQuest (Unreleased)](http://shrigley.com/source_code_archive) - Original sourcecode.
+
+[James Bond Jr. (1991)](http://shrigley.com/source_code_archive) - Original sourcecode.
+
+[Magician (1990)](http://shrigley.com/source_code_archive) - Original sourcecode.
+
 [Mega Man 3 (1990)](https://github.com/Raidenthequick/megaman3-disassembly) - Partially commented disassembly.
 
 [Mega Man 4 (1991)](https://github.com/Raidenthequick/megaman4-disassembly) - Partially commented disassembly.
