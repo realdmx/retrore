@@ -200,6 +200,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
 
+[Ninja Hattori Kun (1986)](https://github.com/historicalsource/nnjhtrkn) - Original sourcecode.
+
 [Super Mario Bros (1985)](https://gist.github.com/1wErt3r/4048722) - Fully commented disassembly.
 
 [Super Mario Bros 3](https://github.com/captainsouthbird/smb3) - Commented disassembly.
