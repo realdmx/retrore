@@ -178,6 +178,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Elite (1985)](https://github.com/Kroc/elite-harmless) - Commented disassembly and patches.
 
+[Habitat (1986)](https://github.com/historicalsource/habitat) - Original sourcecode.
+
 [Hunchback (1984)](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
 
 [Laser Zone (1983)](https://github.com/BumblingCoda/Llamasoft-Laser-Zone-WIP) - Commented disassembly. WIP.
