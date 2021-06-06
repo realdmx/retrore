@@ -184,6 +184,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Hunchback (1984)](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
 
+[Kickman (1982)](https://github.com/mist64/cbmsrc/tree/master/KICKMAN) - Original sourcecode.
+
 [Laser Zone (1983)](https://github.com/BumblingCoda/Llamasoft-Laser-Zone-WIP) - Commented disassembly. WIP.
 
 [Lode Runner (1983)](https://csdb.dk/release/?id=92529) - Fully commented disassembly.
@@ -192,6 +194,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Nemesis the Warlock (1987)](https://github.com/milkeybabes/Nemesis-the-Warlock) - Original sourcecode.
 
+[Omega Race (Ultimax) (1982)](https://github.com/mist64/cbmsrc/tree/master/OMEGA) - Original sourcecode.
+
 [Rampage (1987)](https://github.com/milkeybabes/Rampage) - Original sourcecode.
 
 [Slaine (1987)](https://github.com/milkeybabes/Slaine) - Original sourcecode.
@@ -199,6 +203,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 [Skool Daze (1984)](https://skoolkid.github.io/sk6502/sdc64) - Commented disassembly.
 
 [Stunt Car Racer (1989)](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented disassembly, from the BBC port project.
+
+[Wizard of Wor (Ultimax) (1982)](https://github.com/mist64/cbmsrc/tree/master/WIZARD) - Original sourcecode.
 
 ### NES
 
