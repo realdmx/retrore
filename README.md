@@ -208,6 +208,8 @@ A brief and incomplete list of reverse-engineered and original retro-gaming sour
 
 [Wizard of Wor (Ultimax) (1982)](https://github.com/mist64/cbmsrc/tree/master/WIZARD) - Original sourcecode.
 
+[Wizard of Wor (Commodore) (1983)](https://github.com/dabadab/wizardofwor) - Commented disassembly.
+
 ### NES
 
 [Balloon Fight (1984)](https://github.com/LuigiBlood/balloonfight_dis) - Commented disassembly.
