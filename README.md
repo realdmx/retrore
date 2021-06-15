@@ -1,6 +1,6 @@
 # RetroRE 6502
 
-A brief and incomplete list of reverse-engineered and original retro-gaming sourcecode for systems based on my favourite CPU, the 6502.
+A brief and incomplete list of reverse-engineered and original vintage-gaming sourcecode for systems based on my favourite CPU, the 6502.
 
 ### Acorn Electron
 
