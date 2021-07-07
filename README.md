@@ -226,6 +226,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Final Fantasy (1987)](https://github.com/Entroper/FF1Disassembly) - Fully commented disassembly.
 
+[Green Beret (1987)](https://github.com/g0me3/greenberret_fds) - Partially commented disassembly.
+
 [HeroQuest (Unreleased)](http://shrigley.com/source_code_archive) - Original sourcecode.
 
 [James Bond Jr. (1991)](http://shrigley.com/source_code_archive) - Original sourcecode.
@@ -241,6 +243,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 [Mega Man 6 (1993)](https://github.com/Raidenthequick/megaman6-disassembly) - Partially commented disassembly.
 
 [Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
+
+[New Ghostbusters II (1992)](https://github.com/g0me3/bfs_nes_ngb2) - Partially commented disassembly.
 
 [Ninja Hattori Kun (1986)](https://github.com/historicalsource/nnjhtrkn) - Original sourcecode.
 
