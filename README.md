@@ -212,7 +212,13 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### NES
 
+[Akira (1988)](https://github.com/g0me3/bfs_nes_akira) - Partially commented disassembly.
+
+[Backgammon (1990)](https://github.com/g0me3/backgammon_fds) - Partially commented disassembly.
+
 [Balloon Fight (1984)](https://github.com/LuigiBlood/balloonfight_dis) - Commented disassembly.
+
+[Chip'n'Dale 2 (1992)](https://github.com/g0me3/bfs_nes_cd2) - Partially commented disassembly.
 
 [Days of Thunder - Unreleased (1990)](https://github.com/DickBlackshack/Days-of-Thunder-NES-Unpublished) - Original sourcecode. Game was never released.
 
@@ -237,6 +243,10 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 [Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
 
 [Ninja Hattori Kun (1986)](https://github.com/historicalsource/nnjhtrkn) - Original sourcecode.
+
+[Robocop 3 (1992)](https://github.com/g0me3/bfs_nes_rc3) - Partially commented disassembly.
+
+[Sim City (Unreleased, 1991)](https://github.com/g0me3/bfs_nes_sims) - Partially commented disassembly.
 
 [Super Mario Bros (1985)](https://gist.github.com/1wErt3r/4048722) - Fully commented disassembly.
 
