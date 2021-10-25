@@ -244,6 +244,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
 
+[Mike Tyson's Punch Out! (1987)](https://github.com/nmikstas/mike-tysons-punch-out-disassembly) - Partially commented disassembly.
+
 [New Ghostbusters II (1992)](https://github.com/g0me3/bfs_nes_ngb2) - Partially commented disassembly.
 
 [Ninja Hattori Kun (1986)](https://github.com/historicalsource/nnjhtrkn) - Original sourcecode.
