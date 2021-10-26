@@ -146,6 +146,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### BBC
 
+[Aviator (1983)](https://github.com/markmoxon/aviator-beebasm) - WIP.
+
 [Crazee Rider (1987)](https://github.com/historicalsource/CrazeeRiderBBC) - Original sourcecode.
 
 [Exile (1988)](https://github.com/tom-seddon/exile_disassembly) - Fully commented disassembly.
