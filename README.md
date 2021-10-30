@@ -12,11 +12,29 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Bilestoad, The (1982)](https://github.com/historicalsource/bilestoad-apple2) - Original sourcecode.
 
+[Bomber (1978)](https://www.6502disassembly.com/a2-bomber) - Commented disassembly.
+
+[Deathmaze 5000 (1980)](https://www.6502disassembly.com/a2-deathmaze) - Commented disassembly.
+
+[Elite (1985)](https://www.6502disassembly.com/a2-elite) - Partially commented disassembly.
+
+[Epoch (1981)](https://www.6502disassembly.com/a2-epoch) - Commented disassembly.
+
+[Phantom's Five (1980)](https://www.6502disassembly.com/a2-phantoms-five) - Commented disassembly.
+
 [Pinball Construction Set (1982)](https://github.com/billbudge/PCS_AppleII) - Original sourcecoce.
 
 [Prince of Persia (1989)](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Original sourcecode.
 
 [Robotron 2084 (1983)](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Apple).asm) - Commented disassembly.
+
+[Scott Adams Adventures (1981)](https://www.6502disassembly.com/a2-scott-adams) - Commented disassembly.
+
+[Space Eggs (1981)](https://www.6502disassembly.com/a2-space-eggs) - Commented disassembly.
+
+[Stellar 7 (1983)](https://www.6502disassembly.com/a2-stellar7) - Commented disassembly.
+
+
 
 ### Arcade
 
