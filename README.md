@@ -8,6 +8,11 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Galaforce 1 (1986)](https://github.com/historicalsource/Galaforce1Electron) - Original sourcecode.
 
+[Planetoid (1983)](https://github.com/mikroman/planet) - Disassembly.
+
+[Planetoid (1983)](https://github.com/mikroman/planet) - Disassembly.
+
+
 ### Apple II
 
 [Bilestoad, The (1982)](https://github.com/historicalsource/bilestoad-apple2) - Original sourcecode.
