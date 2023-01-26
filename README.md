@@ -43,6 +43,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### Arcade
 
+[Asteroids (1979)](https://archive.org/details/asteroids-src) - Original sourcecode.
+
 [Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - Fully commented disassembly.
 
 ### Atari 2600
