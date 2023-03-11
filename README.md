@@ -219,6 +219,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Laser Zone (1983)](https://github.com/BumblingCoda/Llamasoft-Laser-Zone-WIP) - Commented disassembly. WIP.
 
+[Le Mans (1983)](https://gitlab.com/ricardoquesada/c64-lemans) - Fully commented disassembly.
+
 [Lode Runner (1983)](https://csdb.dk/release/?id=92529) - Fully commented disassembly.
 
 [Miner 2049'er (1983)](https://csdb.dk/release/?id=108015) - Fully commented disassembly.
