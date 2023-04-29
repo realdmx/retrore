@@ -255,7 +255,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Days of Thunder - Unreleased (1990)](https://github.com/DickBlackshack/Days-of-Thunder-NES-Unpublished) - Original sourcecode. Game was never released.
 
-[Dragon Warrior (NES)](https://github.com/nmikstas/dragon-warrior-disassembly) - Fully commented disassembly.
+[Dragon Warrior (1987)](https://github.com/nmikstas/dragon-warrior-disassembly) - Fully commented disassembly.
 
 [Final Fantasy (1987)](https://github.com/Entroper/FF1Disassembly) - Fully commented disassembly.
 
@@ -275,7 +275,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Mega Man 6 (1993)](https://github.com/Raidenthequick/megaman6-disassembly) - Partially commented disassembly.
 
-[Metroid (NES)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
+[Metroid (1986)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
 
 [Mike Tyson's Punch Out! (1987)](https://github.com/nmikstas/mike-tysons-punch-out-disassembly) - Partially commented disassembly.
 
@@ -289,7 +289,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Super Mario Bros (1985)](https://gist.github.com/1wErt3r/4048722) - Fully commented disassembly.
 
-[Super Mario Bros 3](https://github.com/captainsouthbird/smb3) - Commented disassembly.
+[Super Mario Bros 3 (1990)](https://github.com/captainsouthbird/smb3) - Commented disassembly.
 
 [Tetris (1989)](https://github.com/CelestialAmber/TetrisNESDisasm) - Commented disassembly.
 
