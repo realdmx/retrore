@@ -251,6 +251,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Chip'n'Dale 2 (1992)](https://github.com/g0me3/bfs_nes_cd2) - Partially commented disassembly.
 
+[Contra (1987)](https://github.com/vermiceli/nes-contra-us) - Fully commented disassembly.
+
 [Days of Thunder - Unreleased (1990)](https://github.com/DickBlackshack/Days-of-Thunder-NES-Unpublished) - Original sourcecode. Game was never released.
 
 [Dragon Warrior (NES)](https://github.com/nmikstas/dragon-warrior-disassembly) - Fully commented disassembly.
