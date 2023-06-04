@@ -263,6 +263,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [HeroQuest (Unreleased)](http://shrigley.com/source_code_archive) - Original sourcecode.
 
+[Jackdal (1988)](https://github.com/RayofJay/NES-Jackal_Disassembly_Fully_Commented) - Fully commented disassembly.
+
 [James Bond Jr. (1991)](http://shrigley.com/source_code_archive) - Original sourcecode.
 
 [Magician (1990)](http://shrigley.com/source_code_archive) - Original sourcecode.
