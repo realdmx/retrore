@@ -97,6 +97,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Venture (1981)](http://www.qotile.net/minidig/disassembly/venture.asm) - Fully commented disassembly.
 
+[Video Chess (1982)](https://nanochess.org/archive/video_chess.asm) - Full commented disassembly. And an [interesting article](https://nanochess.org/video_chess.html)
+
 ### Atari 7800
 
 [Asteroids (1987)](https://github.com/videogamepreservation/asteroids-7800) - Original sourcecode.
