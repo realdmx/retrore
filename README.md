@@ -121,11 +121,11 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Ms. PacMan (1986)](https://github.com/videogamepreservation/mspacman-7800) - Original sourcecode.
 
-[Robotron 2084) (1987)](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Atari).asm) - Commented disassembly.
+[Robotron: 2084 (1987)](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Atari).asm) - Commented disassembly.
 
 [Robotron: 2084 (1987)](https://github.com/videogamepreservation/robotron-7800) - Original sourcecode.
 
-[Sphinx](https://github.com/videogamepreservation/sphinx-7800) - Original sourcecode.
+[Sphinx/Nile Flyer/Desert Falcon (1987)](https://github.com/videogamepreservation/sphinx-7800) - Original sourcecode.
 
 [Super Stunt Cycle (1989)](https://github.com/OpenSourcedGames/Atari-7800/tree/master/super_stunt_cycle) - Original sourcecode.
 
