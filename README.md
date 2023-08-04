@@ -56,8 +56,6 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### Atari 2600
 
-[MULTIPLE](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600) - Many Atari games disassembled in this repo!
-
 | Game             | Year | Link         | Original           | RE         | Note          |
 | ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
 | A-Team           | 19xx | [qotilet.net](http://www.qotile.net/minidig/disassembly/a-team.asm)| | Partial | |
@@ -98,13 +96,13 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Outlaw           | 1978 | [qotile.net](http://www.qotile.net/minidig/disassembly/outlaw.asm) | | Full | |
 | Pitfall!         | 1982 | [Github](https://github.com/johnidm/asm-atari-2600/blob/master/pitfall.asm) | | Full | |
 | Plaque Attack    | 1983 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Plaque%20Attack) | | Full | |
-| Red vs. Blue     1 1981 | [Github](https://github.com/johnidm/asm-atari-2600/blob/master/redblue.asm) | | Full | |
+| Red vs. Blue     | 1981 | [Github](https://github.com/johnidm/asm-atari-2600/blob/master/redblue.asm) | | Full | |
 | Riddle of the Sphinx / Dank Tower | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/riddle-pal.asm) | | Full | |
 | River Raid       | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/RiverRaid.asm) | | Full | |
 | Seaquest         | 1983 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Seaquest) | | Full | |
 | Sky Diver        | 1978 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Sky%20Diver) | | Full | |
 | Smurf            | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Smurf%20-%20Rescue%20in%20Gargamel's%20Castle) | | Full | |
-| Space Jockey     | 1982 ] [qotile.net](http://www.qotile.net/minidig/disassembly/space_jockey.asm) | | Full | |
+| Space Jockey     | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/space_jockey.asm) | | Full | |
 | Space Jockey     | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Space%20Jockey) | | Full | |
 | Star Master      | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/Starmaster.asm) | | Full | |
 | Superman         | 1979 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Superman) | | Full | |
