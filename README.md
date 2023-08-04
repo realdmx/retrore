@@ -58,53 +58,59 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [MULTIPLE](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600) - Many Atari games disassembled in this repo!
 
-[A-Team (19xx)](http://www.qotile.net/minidig/disassembly/a-team.asm) - Partially commented disassembly.
-
-[Air Sea Battle (1977)](http://www.qotile.net/minidig/disassembly/air_sea_battle.asm) - Fully commented disassembly.
-
-[Berzerk (1982)](http://www.qotile.net/minidig/disassembly/berzerk.asm) - Fully commented disassembly.
-
-[Combat (1977)](http://www.qotile.net/minidig/disassembly/dicombat.asm) - Fully commented disassembly.
-
-[Cosmic Ark (1982)](http://www.qotile.net/minidig/disassembly/CosmicArk.asm) - Fully commented disassembly.
-
-[Donkey Kong (1982)](http://www.qotile.net/minidig/disassembly/dk.asm) - Fully commented disassembly.
-
-[Dragonfire (1982)](http://www.qotile.net/minidig/disassembly/dfire.asm) - Commented disassembly.
-
-[Dragster (1980)](https://github.com/MrWint/dragster) - Commented disassembly.
-
-[Freeway (1981)](http://www.qotile.net/minidig/disassembly/freeway.asm) - Fully commented disassembly.
-
-[Haunted House (1982)](https://github.com/brandonrobertz/haunted_house_disassembly) - Partially commented disassembly (WIP).
-
-[Indy 500 (1977)](http://www.qotile.net/minidig/disassembly/indy_500_pass_01.asm) - Partially commented disassembly.
-
-[Jawbreaker (1982)](http://www.qotile.net/minidig/disassembly/jaw_breaker.asm) - Fully commented disassembly.
-
-[Kaboom (1981)](http://www.qotile.net/minidig/disassembly/kaboom.asm) - Fully commented disassembly.
-
-[Outlaw (1978)](http://www.qotile.net/minidig/disassembly/outlaw.asm)- Fully commented disassembly.
-
-[Pitfall! (1982)](https://github.com/johnidm/asm-atari-2600/blob/master/pitfall.asm) - Commented disassembly.
-
-[Pitfall! (1982)](http://www.qotile.net/minidig/disassembly/pitfall.asm) - Fully commented disassembly.
-
-[Red vs. Blue (1981)](https://github.com/johnidm/asm-atari-2600/blob/master/redblue.asm) - Fully commented disassembly.
-
-[Riddle of the Sphinx / Dank Tower (1982)](http://www.qotile.net/minidig/disassembly/riddle-pal.asm) - Fully commented disassembly.
-
-[River Raid (1982)](http://www.qotile.net/minidig/disassembly/RiverRaid.asm) - Fully commented disassembly.
-
-[Space Jockey (1982)](http://www.qotile.net/minidig/disassembly/space_jockey.asm) - Fully commented disassembly.
-
-[Star Master (1982)](http://www.qotile.net/minidig/disassembly/Starmaster.asm) - Fully commented disassembly.
-
-[Surround (1977)](http://www.qotile.net/minidig/disassembly/surround.asm) - Fully commented disassembly.
-
-[Venture (1981)](http://www.qotile.net/minidig/disassembly/venture.asm) - Fully commented disassembly.
-
-[Video Chess (1982)](https://nanochess.org/archive/video_chess.asm) - Full commented disassembly. And an [interesting article](https://nanochess.org/video_chess.html)
+| Game             | Year | Link         | Original           | RE         | Note          |
+| ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
+| A-Team           | 19xx | [qotilet.net](http://www.qotile.net/minidig/disassembly/a-team.asm)| | Partial | |
+| Air Sea Battle   | 1977 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Air-Sea%20Battle) | | Full | |
+| Air Sea Battle   | 1977 | [Github](http://www.qotile.net/minidig/disassembly/air_sea_battle.asm) | | Full | |
+| Astroblast       | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Astroblast) | | Full | |
+| Barnstorming     | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Barnstorming) | | Full | |
+| Basketball       | 1977 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Basketball) | | Full | |
+| Berzerk          | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/berzerk.asm) | | Full | |
+| Boxing           | 1980 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Boxing) | | Full | |
+| Canyon Bomber    | 1979 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Canyon%20Bomber) | | Full | |
+| Centipede        | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Centipede) | | Full | |
+| Combat           | 1977 | [qotile.net](http://www.qotile.net/minidig/disassembly/dicombat.asm) | | Full | |
+| Cosmic Ark       | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/CosmicArk.asm) | | Full | |
+| Demons to Diamonds | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Demons%20to%20Diamonds) | | Full | |
+| Donkey Kong      | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/dk.asm) | | Full | |
+| Donkey Kong      | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Donkey%20Kong) | | Full | |
+| Dragonfire       | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/dfire.asm) | | Full | |
+| Dragster         | 1980 | [Github](https://github.com/MrWint/dragster) | | Full | |
+| E.T.             | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/E.T.%20The%20Extra-Terrestrial) | | Full | |
+| Fast Eddie       | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Fast%20Eddie) | | Full | |
+| Fishing Derby    | 1981 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Fishing%20Derby) | | Full | |
+| Football         | 1979 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Football) | | Full | |
+| Freeway          | 1981 | [qotile.net](http://www.qotile.net/minidig/disassembly/freeway.asm) | | Full | |
+| Frostbite        | 1983 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Frostbite) | | Full | |
+| Gopher           | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Gopher) | | Full | |
+| Hangman          | 1978 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Hangman) | | Full | |
+| Haunted House    | 1982 | [Github](https://github.com/brandonrobertz/haunted_house_disassembly) | | Partial | |
+| Indy 500         | 1977 | [Github](http://www.qotile.net/minidig/disassembly/indy_500_pass_01.asm)  | | Partial | |
+| Jawbreaker       | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/jaw_breaker.asm) | | Full | |
+| Jawbreaker       | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Jawbreaker) | | Full | |
+| Kaboom           | 1981 | [qotile.net)](http://www.qotile.net/minidig/disassembly/kaboom.asm) | | Full | |
+| Kaboom           | 1981 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Kaboom!) | | Full | |
+| Lazerblast       | 1981 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Laser%20Blast) | | Full | |
+| Lock'n'Chase     | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Lock%20'n'%20Chase) | | Full | |
+| Missile Command  | 1981 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Missile%20Command) | | Full | |
+| Mouse Trap       | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Mouse%20Trap) | | Full | |
+| Outlaw           | 1978 | [qotile.net](http://www.qotile.net/minidig/disassembly/outlaw.asm) | | Full | |
+| Pitfall!         | 1982 | [Github](https://github.com/johnidm/asm-atari-2600/blob/master/pitfall.asm) | | Full | |
+| Plaque Attack    | 1983 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Plaque%20Attack) | | Full | |
+| Red vs. Blue     1 1981 | [Github](https://github.com/johnidm/asm-atari-2600/blob/master/redblue.asm) | | Full | |
+| Riddle of the Sphinx / Dank Tower | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/riddle-pal.asm) | | Full | |
+| River Raid       | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/RiverRaid.asm) | | Full | |
+| Seaquest         | 1983 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Seaquest) | | Full | |
+| Sky Diver        | 1978 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Sky%20Diver) | | Full | |
+| Smurf            | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Smurf%20-%20Rescue%20in%20Gargamel's%20Castle) | | Full | |
+| Space Jockey     | 1982 ] [qotile.net](http://www.qotile.net/minidig/disassembly/space_jockey.asm) | | Full | |
+| Space Jockey     | 1982 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Space%20Jockey) | | Full | |
+| Star Master      | 1982 | [qotile.net](http://www.qotile.net/minidig/disassembly/Starmaster.asm) | | Full | |
+| Superman         | 1979 | [Github](https://github.com/DNSDEBRO/Disassemblies/tree/master/Atari2600/Superman) | | Full | |
+| Surround         | 1977 | [qotile.net](http://www.qotile.net/minidig/disassembly/surround.asm) | | Full | |
+| Venture          | 1981 | [qotile.net](http://www.qotile.net/minidig/disassembly/venture.asm) | | Full | |
+| Video Chess      | 1982 | [nanochess.org](https://nanochess.org/archive/video_chess.asm) | | Full | And an [interesting article](https://nanochess.org/video_chess.html)
 
 ### Atari 7800
 
