@@ -29,9 +29,13 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### Arcade
 
-[Asteroids (1979)](https://archive.org/details/asteroids-src) - Original sourcecode.
+| Game             | Year | Link         | Original           | RE         | Note          |
+| ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
+| Asteroids        | 1979 | [Github](https://github.com/historicalsource/asteroids) | ORIGINAL | | |
+| Asteroids Deluxe | 1980 | [Github](https://github.com/historicalsource/asteroids-deluxe) | ORIGINAL | | |
+| Atari Baseball   | 1979 | [Github](https://github.com/historicalsource/baseball) | ORIGINAL | | |
+| Atari Football   | 1978 | [Github](https://github.com/historicalsource/football) | ORIGINAL | | |
 
-[Asteroids (1979)](https://github.com/nmikstas/asteroids-disassembly) - Fully commented disassembly.
 
 ### Atari 2600
 
