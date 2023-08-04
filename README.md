@@ -4,28 +4,28 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### Acorn Electron
 
-| Game         | Year | Link         | Source             | State       | Note          |
+| Game         | Year | Link         | Original           | RE          | Note          |
 | ------------ | ---- | ------------ | ------------------ | ----------- | ------------- |
 | Crazee Rider | 1987 | [Github](https://github.com/historicalsource/CrazeeRiderElectron) | ORIGINAL | |
 | Galaforce 1  | 1986 | [Github](https://github.com/historicalsource/Galaforce1Electron) | ORIGINAL | |
-| Planetoid    | 1983 | [Github](https://github.com/mikroman/planet) | Disassembly | Partial |
+| Planetoid    | 1983 | [Github](https://github.com/mikroman/planet) |   | Partial | |
 
 ### Apple II
 
-| Game                     | Year | Link         | Source             | State       | Note          |
-| ------------------------ | ---- | ------------ | ------------------ | ----------- | ------------- |
+| Game         | Year | Link         | Original           | RE         | Note          |
+| ------------ | ---- | ------------ | ------------------ | ----------- | ------------- |
 | Bilestoad, The           | 1982 | [Github](https://github.com/historicalsource/bilestoad-apple2) | ORIGINAL | |
-| Bomber                   | 1986 | [6502disassembly.com](https://www.6502disassembly.com/a2-bomber)| Disasm | Full |
-| Deathmaze 5000           | 1980 | [6502disassembly.com](https://www.6502disassembly.com/a2-deathmaze)| Disasm | Full |
-| Elite                    | 1985 | [6502disassembly.com](https://www.6502disassembly.com/a2-elite)| Disasm | Partial |
-| Epoch                    | 1981 | [6502disassembly.com](https://www.6502disassembly.com/a2-epoch)| Disasm | Full |
-| Phantom's Five           | 1980 | [6502disassembly.com](https://www.6502disassembly.com/a2-phantoms-five)| Disasm | Full |
+| Bomber                   | 1986 | [6502disassembly.com](https://www.6502disassembly.com/a2-bomber)| | Full |
+| Deathmaze 5000           | 1980 | [6502disassembly.com](https://www.6502disassembly.com/a2-deathmaze) | | Full |
+| Elite                    | 1985 | [6502disassembly.com](https://www.6502disassembly.com/a2-elite)| | Partial |
+| Epoch                    | 1981 | [6502disassembly.com](https://www.6502disassembly.com/a2-epoch)| | Full |
+| Phantom's Five           | 1980 | [6502disassembly.com](https://www.6502disassembly.com/a2-phantoms-five)|  | Full |
 | Pinball Construction Set | 1982 | [Github](https://github.com/billbudge/PCS_AppleII) | ORIGINAL | |
 | Prince of Persia         | 1989 | [Github](https://github.com/jmechner/Prince-of-Persia-Apple-II) | ORIGINAL | |
-| Robotron: 2084           | 1983 | [Github](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Apple).asm) | Disasm | Partial |
-| Scott Adams Adventures   | 1981 | [6502disassembly.com](https://www.6502disassembly.com/a2-scott-adams) | Disasm | Full |
-| Space Eggs               | 1981 | [6502disassembly.com)](https://www.6502disassembly.com/a2-space-eggs) | Disasm | Full |
-| Stellar 7                | 1983 | [6502disassembly.com](https://www.6502disassembly.com/a2-stellar7) | Disasm | Full |
+| Robotron: 2084           | 1983 | [Github](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Apple).asm) |  | Partial |
+| Scott Adams Adventures   | 1981 | [6502disassembly.com](https://www.6502disassembly.com/a2-scott-adams) |  | Full |
+| Space Eggs               | 1981 | [6502disassembly.com)](https://www.6502disassembly.com/a2-space-eggs) |  | Full |
+| Stellar 7                | 1983 | [6502disassembly.com](https://www.6502disassembly.com/a2-stellar7) |  | Full |
 
 ### Arcade
 
