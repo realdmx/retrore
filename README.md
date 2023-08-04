@@ -325,8 +325,6 @@ https://github.com/billbudge - Author of Pinball Construction Set.
 
 http://www.qotile.net/minidig/index.html - Several Atari 2600 disassembly sources.
 
-https://www.6502disassembly.com/other-va.html  - Arcade 6502 sources to be added.
-
 
 
 
