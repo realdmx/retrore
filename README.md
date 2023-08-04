@@ -35,6 +35,23 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Asteroids Deluxe | 1980 | [Github](https://github.com/historicalsource/asteroids-deluxe) | ORIGINAL | | |
 | Atari Baseball   | 1979 | [Github](https://github.com/historicalsource/baseball) | ORIGINAL | | |
 | Atari Football   | 1978 | [Github](https://github.com/historicalsource/football) | ORIGINAL | | |
+| Atari Mini Golf  | 1978 | [Github](https://github.com/historicalsource/minigolf) | ORIGINAL | | Prototype |
+| Battlezone       | 1980 | [Github](https://github.com/historicalsource/battlezone) | ORIGINAL | | |
+| Canyon Bomber    | 1977 | [Github](https://github.com/historicalsource/canyon-bomber) | ORIGINAL | | |
+| Centipede        | 1981 | [Github](https://github.com/historicalsource/centipede) | ORIGINAL | | |
+| Cops'n'Robbers   | 1976 | [Github](https://github.com/historicalsource/copsandrobbers) | ORIGINAL | | |
+| Crystal Castles  | 1983 | [Github](https://github.com/historicalsource/crystal-castles) | ORIGINAL | | |
+| Gravitar         | 1982 | [Github](https://github.com/historicalsource/gravitar) | ORIGINAL | | |
+| Lunar Lander     | 1979 | [Github](https://github.com/historicalsource/lunar-lander) | ORIGINAL | | |
+| Millipede        | 1982 | [Github](https://github.com/historicalsource/millipede) | ORIGINAL | | |
+| Missile Command  | 1980 | [Github](https://github.com/historicalsource/missile-command) | ORIGINAL | | |
+| Night Driver     | 1976 | [Github](https://github.com/historicalsource/nightdriver) | ORIGINAL | | |
+| Red Baron        | 1980 | [Github](https://github.com/historicalsource/red-baron) | ORIGINAL | | |
+| Space Duel       | 1980 | [Github](https://github.com/historicalsource/space-duel) | ORIGINAL | | |
+| Starship 1       | 1978 | [Github](https://github.com/historicalsource/starship) | ORIGINAL | | |
+| Super Breakout   | 1978 | [Github](https://github.com/historicalsource/super-breakout-cocktail) | ORIGINAL | | |
+| Tempest          | 1981 | [Github](https://github.com/historicalsource/tempest) | ORIGINAL | | |
+| Warlords         | 1980 | [Github](https://github.com/historicalsource/warlords) | ORIGINAL | | |
 
 
 ### Atari 2600
