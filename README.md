@@ -217,6 +217,8 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 [Gridrunner (1983)](https://github.com/OldSkoolCoder/GridRunner-Original) - Fully commented disassembly.
 
+[Iridis Alpha (1986)](https://github.com/mwenge/iridisalpha) - Fully commented disassembly. And a book!
+
 [Kickman (1982)](https://github.com/mist64/cbmsrc/tree/master/KICKMAN) - Original sourcecode.
 
 [Laser Zone (1983)](https://github.com/BumblingCoda/Llamasoft-Laser-Zone-WIP) - Commented disassembly. WIP.
