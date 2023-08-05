@@ -132,43 +132,27 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### Atari 8-bit
 
-[Anteater (1982)](https://github.com/savetz/edfries-anteater) - Original sourcecode.
-
-[Blue Max (1983)](https://atariage.com/forums/topic/249933-blue-max-source-code-for-you) - Original source code in this thread.
-
-[Bruce Lee (1984)](https://github.com/fa8ntomas/blck-game-engine) - Commented disassembly.
-
-[Buck Rogers: Planet of Zoom](https://archive.org/details/BuckRogers_source) - Original source code listing from paper.
-
-[Dandy (1983)](https://archive.org/details/Dandy_source) - Original sourcecode.
-
-[Donkey Kong (1983)](https://atariage.com/forums/topic/130904-donkey-kong-source-code) - Original sourcecode.
-
-[Fort Apocalypse (1982)](https://github.com/heyigor/FortApocalypse) - Original sourcecode.
-
-[Getaway! (1982)](https://github.com/playermissile/getaway) - Original sourcecode.
-
-[M.U.L.E. (1983)](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) - Commented disassembly. + [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html)
-
-[PAC-MAN (1982)](https://atariwiki.org/wiki/Wiki.jsp?page=PAC-MAN) - Original sourcecode. 
-
-[Pinball Construction Set (1983)](https://github.com/billbudge/PCS_Atari800) - Original sourcecode.
-
-[Preppie! (1982)](https://archive.org/details/Preppie) - Original sourcecode.
-
-[Preppie! II (1983)](https://archive.org/details/Preppie_II) - Original sourcecode.
-
-[Princess and the Frog, The (1982)](https://github.com/savetz/edfries-frog) - Original sourcecode.
-
-[Sea Chase (1983)](https://github.com/savetz/edfries-seachase) - Original sourcecode.
-
-[Sea Dragon (1982)](https://archive.org/details/Sea_Dragon) - Original sourcecode.
-
-[Star Raiders (1979)](https://github.com/lwiest/StarRaiders) - Fully commented disassembly.
-
-[Star Raiders (1979)](https://archive.org/details/AtariStarRaidersSourceCode) - Original source code listing from paper.
-
-[Up'n Down (1983)](https://archive.org/details/UpNDown_source/UpNDown2) - Original source code listing from paper.
+| Game             | Year | Link         | Original           | RE         | Note          |
+| ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
+| Anteater         | 1982 | [Github](https://github.com/savetz/edfries-anteater) | ORIGINAL | | |
+| Blue Max         | 1983 | [atariage](https://atariage.com/forums/topic/249933-blue-max-source-code-for-you) | ORIGINAL | | In thread |
+| Bruce Lee        | 1984 | [Github](https://github.com/fa8ntomas/blck-game-engine) | | Partial | |
+| Buck Rogers      | 1982 | [archive.org](https://archive.org/details/BuckRogers_source) | ORIGINAL | | Paper listing |
+| Dandy            | 1983 | [archive.org](https://archive.org/details/Dandy_source) | ORIGINAL | | |
+| Donkey Kong      | 1983 | [atariage](https://atariage.com/forums/topic/130904-donkey-kong-source-code) | ORIGINAL | | In thread |
+| Fort Apocalypse  | 1982 | [Github](https://github.com/heyigor/FortApocalypse) | ORIGINAL | | |
+| Getaway!         | 1982 | [Github](https://github.com/playermissile/getaway) | ORIGINAL | | |
+| M.U.L.E.         | 1983 | [bringerp](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) | | Commented | [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html) |
+| Pac-Man          | 1982 | [atariwiki](https://atariwiki.org/wiki/Wiki.jsp?page=PAC-MAN) | ORIGINAL | | |
+| Pinball Construction Set | 1983 | [Github](https://github.com/billbudge/PCS_Atari800) | ORIGINAL | | |
+| Preppie!         | 1982 | [archive.org](https://archive.org/details/Preppie) | ORIGINAL | | |
+| Preppie! II      | 1983 | [archive.org](https://archive.org/details/Preppie_II) | ORIGINAL | | |
+| Princess and the Frog, The | 1982 | [Github](https://github.com/savetz/edfries-frog) | ORIGINAL | | |
+| Sea Chase        | 1983 | [Github](https://github.com/savetz/edfries-seachase) | ORIGINAL | | |
+| Sea Dragon       | 1982 | [archive.org](https://archive.org/details/Sea_Dragon) | ORIGINAL | | |
+| Star Raiders     | 1979 | [Github](https://github.com/lwiest/StarRaiders) | | Full | |
+| Star Raiders     | 1979 | [archive.org](https://archive.org/details/AtariStarRaidersSourceCode) | ORIGINAL | | Paper listing |
+| Up'n Down        | 1983 | [archive.org](https://archive.org/details/UpNDown_source/UpNDown2) | ORIGINAL | | Paper listing |
 
 ### BBC
 
