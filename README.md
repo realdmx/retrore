@@ -158,7 +158,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 | Game             | Year | Link         | Original           | RE         | Note          |
 | ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
-| Aviator          | 1983 | [Github](https://github.com/markmoxon/aviator-beebasm) | | WIP | |
+| Aviator          | 1983 | [Github](https://github.com/markmoxon/aviator-beebasm) | | Full | |
 | Crazee Rider     | 1987 | [Github](https://github.com/historicalsource/CrazeeRiderBBC) | ORIGINAL | | |
 | Exile            | 1988 | [Github](https://github.com/tom-seddon/exile_disassembly) | | Full | |
 | Elite            | 1984 | [Github](https://github.com/markmoxon/elite-beebasm) | ORIGINAL | | |
