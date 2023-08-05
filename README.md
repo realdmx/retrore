@@ -112,35 +112,23 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### Atari 7800
 
-[Asteroids (1987)](https://github.com/videogamepreservation/asteroids-7800) - Original sourcecode.
-
-[Centipede (1987)](https://github.com/videogamepreservation/centipede-7800) - Original sourcecode.
-
-[Commando (1989)](https://github.com/videogamepreservation/commando-7800) - Original sourcecode.
-
-[Crossbow (1988)](https://github.com/OpenSourcedGames/Atari-7800/tree/master/CROSSBOW/C) - Original sourcecode.
-
-[Dig Dug (1987)](https://github.com/videogamepreservation/digdug-7800) - Original sourcecode.
-
-[Food Fight (1987)](https://github.com/OpenSourcedGames/Atari-7800/tree/master/FOODFIGHT) - Original sourcecode.
-
-[Galaga (1986)](https://github.com/videogamepreservation/galaga-7800) - Original sourcecode.
-
-[Hat-Trick (1987)](https://github.com/videogamepreservation/hattrick-7800) - Original sourcecode.
-
-[Joust (1988)](https://github.com/videogamepreservation/joust-7800) - Original sourcecode.
-
-[Ms. PacMan (1986)](https://github.com/videogamepreservation/mspacman-7800) - Original sourcecode.
-
-[Robotron: 2084 (1987)](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Atari).asm) - Commented disassembly.
-
-[Robotron: 2084 (1987)](https://github.com/videogamepreservation/robotron-7800) - Original sourcecode.
-
-[Sphinx/Nile Flyer/Desert Falcon (1987)](https://github.com/videogamepreservation/sphinx-7800) - Original sourcecode.
-
-[Super Stunt Cycle (1989)](https://github.com/OpenSourcedGames/Atari-7800/tree/master/super_stunt_cycle) - Original sourcecode.
-
-[Xevious (1986)](https://github.com/videogamepreservation/xevious-7800) - Original sourcecode.
+| Game             | Year | Link         | Original           | RE         | Note          |
+| ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
+| Asteroids        | 1987 | [Github](https://github.com/videogamepreservation/asteroids-7800) | ORIGINAL | | |
+| Centipede        | 1987 ] [Github](https://github.com/videogamepreservation/centipede-7800) | ORIGINAL | | |
+| Commando         | 1989 ] [Github](https://github.com/videogamepreservation/commando-7800) | ORIGINAL | | |
+| Crossbow         | 1988 ] [Github](https://github.com/OpenSourcedGames/Atari-7800/tree/master/CROSSBOW/C) | ORIGINAL | | |
+| Dig Dug          | 1987 ] [Github](https://github.com/videogamepreservation/digdug-7800) | ORIGINAL | | |
+| Food Fight       | 1987 ] [Github](https://github.com/OpenSourcedGames/Atari-7800/tree/master/FOODFIGHT) | ORIGINAL | | |
+| Galaga           | 1986 | [Github](https://github.com/videogamepreservation/galaga-7800) | ORIGINAL | | |
+| Hat-Trick        | 1987 ] [Github](https://github.com/videogamepreservation/hattrick-7800) | ORIGINAL | | |
+| Joust            | 1988 | [Github](https://github.com/videogamepreservation/joust-7800) | ORIGINAL | | |
+| Ms. PacMan       | 1986 | [Github](https://github.com/videogamepreservation/mspacman-7800) | ORIGINAL | | |
+| Robotron: 2084   | 1987 | [Github](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Atari).asm) | | Full | |
+| Robotron: 2084   | 1987 | [Github](https://github.com/videogamepreservation/robotron-7800) | ORIGINAL | | |
+| Sphinx           | 1987 | [Github](https://github.com/videogamepreservation/sphinx-7800) | ORIGINAL | | Nile Flyer/Desert Falcon
+| Super Stunt Cycle | 1989 | [Github](https://github.com/OpenSourcedGames/Atari-7800/tree/master/super_stunt_cycle) | ORIGINAL | | |
+| Xevious          | 1986 | [Github](https://github.com/videogamepreservation/xevious-7800) | ORIGINAL | | |
 
 ### Atari 8-bit
 
