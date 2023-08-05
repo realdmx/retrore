@@ -154,25 +154,19 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Star Raiders     | 1979 | [archive.org](https://archive.org/details/AtariStarRaidersSourceCode) | ORIGINAL | | Paper listing |
 | Up'n Down        | 1983 | [archive.org](https://archive.org/details/UpNDown_source/UpNDown2) | ORIGINAL | | Paper listing |
 
-### BBC
+### BBC Micro
 
-[Aviator (1983)](https://github.com/markmoxon/aviator-beebasm) - WIP.
-
-[Crazee Rider (1987)](https://github.com/historicalsource/CrazeeRiderBBC) - Original sourcecode.
-
-[Exile (1988)](https://github.com/tom-seddon/exile_disassembly) - Fully commented disassembly.
-
-[Elite (1984)](https://github.com/markmoxon/elite-beebasm) - Original sourcecode.
-
-[Galaforce (1986)](https://github.com/historicalsource/Galaforce1BBC) - Original sourcecode.
-
-[Manic Miner (1984)](https://github.com/TobyLobster/ManicMiner) - Fully commented disassembly.
-
-[Revs (1985, 1986)](https://github.com/markmoxon/revs-beebasm) - Fully commented disassembly.
-
-[Stunt Car Racer (2019)](https://github.com/kieranhj/scr-beeb) - 6502. BBC Micro port of Stunt Car Racer.
-
-[Thrust (1986)](https://github.com/kieranhj/thrust-disassembly) - Fully commented disassembly.
+| Game             | Year | Link         | Original           | RE         | Note          |
+| ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
+| Aviator          | 1983 | [Github](https://github.com/markmoxon/aviator-beebasm) | | WIP | |
+| Crazee Rider     | 1987 | [Github](https://github.com/historicalsource/CrazeeRiderBBC) | ORIGINAL | | |
+| Exile            | 1988 | [Github](https://github.com/tom-seddon/exile_disassembly) | | Full | |
+| Elite            | 1984 | [Github](https://github.com/markmoxon/elite-beebasm) | ORIGINAL | | |
+| Galaforce        | 1986 | [Github](https://github.com/historicalsource/Galaforce1BBC) | ORIGINAL | | |
+| Manic Miner      | 1984 | [Github](https://github.com/TobyLobster/ManicMiner) | | Full | |
+| Revs             | 1985 | [Github](https://github.com/markmoxon/revs-beebasm) | | Full | |
+| Stunt Car Racer  | 2019 | [Github](https://github.com/kieranhj/scr-beeb) | ORIGINAL | | BBC port |
+| Thrust           | 1986 | [Github](https://github.com/kieranhj/thrust-disassembly) | | Full | |
 
 ### Commodore 64
 
