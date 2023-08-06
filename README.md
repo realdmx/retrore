@@ -223,7 +223,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Metroid          | 1986 | [Github](https://github.com/nmikstas/metroid-disassembly) | | Full | |
 | Mike Tyson's Punch Out! | 1987 | [Github](https://github.com/nmikstas/mike-tysons-punch-out-disassembly) | | Partial | |
 | New Ghostbusters II | 1992 | [Github](https://github.com/g0me3/bfs_nes_ngb2) | | Partial | |
-| Ninja Hattori Kun 1 1986 | [Github](https://github.com/historicalsource/nnjhtrkn) | ORIGINAL | | |
+| Ninja Hattori Kun | 1986 | [Github](https://github.com/historicalsource/nnjhtrkn) | ORIGINAL | | |
 | Robocop 3        | 1992 | [Github](https://github.com/g0me3/bfs_nes_rc3) | | Partial | | 
 | Sim City         | 1991 | [Github](https://github.com/g0me3/bfs_nes_sims) | | Partial | Unreleased |
 | Super Mario Bros | 1985 | [Github](https://gist.github.com/1wErt3r/4048722) | | Full | |
