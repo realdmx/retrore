@@ -201,73 +201,35 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### NES
 
-[Akira (1988)](https://github.com/g0me3/bfs_nes_akira) - Partially commented disassembly.
-
-[Backgammon (1990)](https://github.com/g0me3/backgammon_fds) - Partially commented disassembly.
-
-[Balloon Fight (1984)](https://github.com/LuigiBlood/balloonfight_dis) - Commented disassembly.
-
-[Chip'n'Dale 2 (1992)](https://github.com/g0me3/bfs_nes_cd2) - Partially commented disassembly.
-
-[Contra (1987)](https://github.com/vermiceli/nes-contra-us) - Fully commented disassembly.
-
-[Days of Thunder - Unreleased (1990)](https://github.com/DickBlackshack/Days-of-Thunder-NES-Unpublished) - Original sourcecode. Game was never released.
-
-[Dragon Warrior (1987)](https://github.com/nmikstas/dragon-warrior-disassembly) - Fully commented disassembly.
-
-[Final Fantasy (1987)](https://github.com/Entroper/FF1Disassembly) - Fully commented disassembly.
-
-[Green Beret (1987)](https://github.com/g0me3/greenberret_fds) - Partially commented disassembly.
-
-[HeroQuest (Unreleased)](http://shrigley.com/source_code_archive) - Original sourcecode.
-
-[Jackdal (1988)](https://github.com/RayofJay/NES-Jackal_Disassembly_Fully_Commented) - Fully commented disassembly.
-
-[James Bond Jr. (1991)](http://shrigley.com/source_code_archive) - Original sourcecode.
-
-[Magician (1990)](http://shrigley.com/source_code_archive) - Original sourcecode.
-
-[Mega Man 3 (1990)](https://github.com/Raidenthequick/megaman3-disassembly) - Partially commented disassembly.
-
-[Mega Man 4 (1991)](https://github.com/Raidenthequick/megaman4-disassembly) - Partially commented disassembly.
-
-[Mega Man 5 (1992)](https://github.com/Raidenthequick/megaman5-disassembly) - Partially commented disassembly.
-
-[Mega Man 6 (1993)](https://github.com/Raidenthequick/megaman6-disassembly) - Partially commented disassembly.
-
-[Metroid (1986)](https://github.com/nmikstas/metroid-disassembly) - Fully commented disassembly.
-
-[Mike Tyson's Punch Out! (1987)](https://github.com/nmikstas/mike-tysons-punch-out-disassembly) - Partially commented disassembly.
-
-[New Ghostbusters II (1992)](https://github.com/g0me3/bfs_nes_ngb2) - Partially commented disassembly.
-
-[Ninja Hattori Kun (1986)](https://github.com/historicalsource/nnjhtrkn) - Original sourcecode.
-
-[Robocop 3 (1992)](https://github.com/g0me3/bfs_nes_rc3) - Partially commented disassembly.
-
-[Sim City (Unreleased, 1991)](https://github.com/g0me3/bfs_nes_sims) - Partially commented disassembly.
-
-[Super Mario Bros (1985)](https://gist.github.com/1wErt3r/4048722) - Fully commented disassembly.
-
-[Super Mario Bros 3 (1990)](https://github.com/captainsouthbird/smb3) - Commented disassembly.
-
-[Tetris (1989)](https://github.com/CelestialAmber/TetrisNESDisasm) - Commented disassembly.
-
-[Zelda, The Legend Of (1985)](https://github.com/camthesaxman/zeldasource) - WIP, partially commented disassembly.
-
-[Zelda, The Legend Of (1985)](https://github.com/aldonunez/zelda1-disassembly) - Fully commented disassembly.
-
-
-### Other links, resources, sources
-
-http://bringerp.free.fr/RE/index.php5 - MULE and others.
-
-https://github.com/milkeybabes - C64 original sources.
-
-https://github.com/billbudge - Author of Pinball Construction Set.
-
-http://www.qotile.net/minidig/index.html - Several Atari 2600 disassembly sources.
-
-
+| Game             | Year | Link         | Original           | RE         | Note          |
+| ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
+| Akira            | 1988 | [Github](https://github.com/g0me3/bfs_nes_akira) | | Partial | |
+| Backgammon       | 1990 | [Github](https://github.com/g0me3/backgammon_fds) | | Partial | |
+| Balloon Fight    | 1984 | [Github](https://github.com/LuigiBlood/balloonfight_dis) | | Full | |
+| Chip'n'Dale 2    | 1992 | [Github](https://github.com/g0me3/bfs_nes_cd2) | | Partial | |
+| Contra           | 1987 | [Github](https://github.com/vermiceli/nes-contra-us) | | Full | |
+| Days of Thunder  | 1990 | [Github](https://github.com/DickBlackshack/Days-of-Thunder-NES-Unpublished) | ORIGINAL | | Unreleased |
+| Dragon Warrior   | 1987 | [Github](https://github.com/nmikstas/dragon-warrior-disassembly) | | Full | |
+| Final Fantasy    | 1987 | [Github](https://github.com/Entroper/FF1Disassembly) | | Full | |
+| Green Beret      | 1987 | [Github](https://github.com/g0me3/greenberret_fds) | | Partial | |
+| HeroQuest        | 199x | [Github](http://shrigley.com/source_code_archive) | ORIGINAL | | Unreleased |
+| Jackal           | 1988 | [Github](https://github.com/RayofJay/NES-Jackal_Disassembly_Fully_Commented) | | Full | |
+| James Bond Jr.   | 1991 | [shrigley](http://shrigley.com/source_code_archive) | ORIGINAL | | |
+| Magician         | 1990 | [shrigley](http://shrigley.com/source_code_archive) | ORIGINAL | | |
+| Mega Man 3       | 1990 | [Github](https://github.com/Raidenthequick/megaman3-disassembly) | | Partial | |
+| Mega Man 4       | 1991 | [Github](https://github.com/Raidenthequick/megaman4-disassembly) | | Partial | |
+| Mega Man 5       | 1992 | [Github](https://github.com/Raidenthequick/megaman5-disassembly) | | Partial | |
+| Mega Man 6       | 1993 | [Github](https://github.com/Raidenthequick/megaman6-disassembly) | | Partial | |
+| Metroid          | 1986 | [Github](https://github.com/nmikstas/metroid-disassembly) | | Full | |
+| Mike Tyson's Punch Out! | 1987 | [Github](https://github.com/nmikstas/mike-tysons-punch-out-disassembly) | | Partial | |
+| New Ghostbusters II | 1992 | [Github](https://github.com/g0me3/bfs_nes_ngb2) | | Partial | |
+| Ninja Hattori Kun 1 1986 | [Github](https://github.com/historicalsource/nnjhtrkn) | ORIGINAL | | |
+| Robocop 3        | 1992 | [Github](https://github.com/g0me3/bfs_nes_rc3) | | Partial | | 
+| Sim City         | 1991 | [Github](https://github.com/g0me3/bfs_nes_sims) | | Partial | Unreleased |
+| Super Mario Bros | 1985 | [Github](https://gist.github.com/1wErt3r/4048722) | | Full | |
+| Super Mario Bros 3 | 1990 | [Github](https://github.com/captainsouthbird/smb3) | | Full | |
+| Tetris           | 1989 | [Github](https://github.com/CelestialAmber/TetrisNESDisasm) | | Full | |
+| Zelda, The Legend Of | 1985 | [Github](https://github.com/camthesaxman/zeldasource) | | WIP | |
+| Zelda, The Legend Of | 1985 | [Github](https://github.com/aldonunez/zelda1-disassembly) | | Full | |
 
 
