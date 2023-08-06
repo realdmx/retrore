@@ -170,57 +170,34 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 ### Commodore 64
 
-[Alien 3 (1992)](https://github.com/milkeybabes/Alien3-C64) - Original sourcecode.
-
-[Altered Beast (1989)](https://github.com/milkeybabes/Altered-Beast) - Original sourcecode.
-
-[Atomic Robokid (1990)](https://github.com/milkeybabes/Atomic-Robokid) - Original sourcecode.
-
-[Attack of the Mutant Camels (1983)](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) - Fully commented disassembly.
-
-[Beach Head (1983)](https://csdb.dk/release/?id=111671) - Fully commented disassembly.
-
-[Bounty Bob Strikes Back (1984)](https://csdb.dk/release/?id=155889) - Fully commented disassembly.
-
-[Castles of Dr. Creep III (1984)](https://csdb.dk/release/?id=95815) - Fully commented disassembly.
-
-[Commando (1985)](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) - Fully commented disassembly.
-
-[Elite (1985)](https://github.com/Kroc/elite-harmless) - Commented disassembly and patches.
-
-[Habitat (1986)](https://github.com/historicalsource/habitat) - Original sourcecode.
-
-[Hunchback (1984)](https://github.com/C64-Mark/Hunchback) - Fully commented disassembly.
-
-[Gridrunner (1983)](https://github.com/OldSkoolCoder/GridRunner-Original) - Fully commented disassembly.
-
-[Iridis Alpha (1986)](https://github.com/mwenge/iridisalpha) - Fully commented disassembly. And a book!
-
-[Kickman (1982)](https://github.com/mist64/cbmsrc/tree/master/KICKMAN) - Original sourcecode.
-
-[Laser Zone (1983)](https://github.com/BumblingCoda/Llamasoft-Laser-Zone-WIP) - Commented disassembly. WIP.
-
-[Le Mans (1983)](https://gitlab.com/ricardoquesada/c64-lemans) - Fully commented disassembly.
-
-[Lode Runner (1983)](https://csdb.dk/release/?id=92529) - Fully commented disassembly.
-
-[Miner 2049'er (1983)](https://csdb.dk/release/?id=108015) - Fully commented disassembly.
-
-[Nemesis the Warlock (1987)](https://github.com/milkeybabes/Nemesis-the-Warlock) - Original sourcecode.
-
-[Omega Race (Ultimax) (1982)](https://github.com/mist64/cbmsrc/tree/master/OMEGA) - Original sourcecode.
-
-[Rampage (1987)](https://github.com/milkeybabes/Rampage) - Original sourcecode.
-
-[Slaine (1987)](https://github.com/milkeybabes/Slaine) - Original sourcecode.
-
-[Skool Daze (1984)](https://skoolkid.github.io/sk6502/sdc64) - Commented disassembly.
-
-[Stunt Car Racer (1989)](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) - Partially commented disassembly, from the BBC port project.
-
-[Wizard of Wor (Ultimax) (1982)](https://github.com/mist64/cbmsrc/tree/master/WIZARD) - Original sourcecode.
-
-[Wizard of Wor (Commodore) (1983)](https://github.com/dabadab/wizardofwor) - Commented disassembly.
+| Game             | Year | Link         | Original           | RE         | Note          |
+| ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
+| Alien 3          | 1992 | [Github](https://github.com/milkeybabes/Alien3-C64) | ORIGINAL | |
+| Altered Beast    | 1989 | [Github](https://github.com/milkeybabes/Altered-Beast) | ORIGINAL | |
+| Atomic Robokid   | 1990 | [Github](https://github.com/milkeybabes/Atomic-Robokid) | ORIGINAL | |
+| Attack of the Mutant Camels | 1983 | [Github](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) | | Full | |
+| Beach Head       | 1983 | [csdb](https://csdb.dk/release/?id=111671) | | Full | |
+| Bounty Bob Strikes Back | 1984 | [csdb](https://csdb.dk/release/?id=155889) | | Full | |
+| Castles of Dr. Creep III | 1984 | [csdb](https://csdb.dk/release/?id=95815) | | Full | |
+| Commando         | 1985 | [Gitlab](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) | | Full | |
+| Elite            | 1985 | [Github](https://github.com/Kroc/elite-harmless) | | Full | With patches |
+| Habitat          | 1986 | [Github](https://github.com/historicalsource/habitat) | ORIGINAL | |
+| Hunchback        | 1984 | [Github](https://github.com/C64-Mark/Hunchback) | | Full | |
+| Gridrunner       | 1983 | [Github](https://github.com/OldSkoolCoder/GridRunner-Original) | | Full | |
+| Iridis Alpha     | 1986 | [Github](https://github.com/mwenge/iridisalpha) | | Full | And a book! |
+| Kickman          | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/KICKMAN) | ORIGINAL | | |
+| Laser Zone       | 1983 | [Github](https://github.com/BumblingCoda/Llamasoft-Laser-Zone-WIP) | | WIP | |
+| Le Mans          | 1983 | [Github](https://gitlab.com/ricardoquesada/c64-lemans) | | Full | |
+| Lode Runner      | 1983 | [csdb](https://csdb.dk/release/?id=92529) | | Full | |
+| Miner 2049'er    | 1983 | [csdb](https://csdb.dk/release/?id=108015) | | Full | |
+| Nemesis the Warlock | 1987 | [Github](https://github.com/milkeybabes/Nemesis-the-Warlock) | ORIGINAL | | |
+| Omega Race       | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/OMEGA) | ORIGINAL | | Ultimax version |
+| Rampage          | 1987 | [Github](https://github.com/milkeybabes/Rampage) | ORIGINAL | | |
+| Slaine           | 1987 | [Github](https://github.com/milkeybabes/Slaine) | ORIGINAL | | |
+| Skool Daze       | 1984 | [Github](https://skoolkid.github.io/sk6502/sdc64) | | Full | |
+| Stunt Car Racer  | 1989 | [Github](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) | | Partial | From the BBC port project |
+| Wizard of Wor    | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/WIZARD) | ORIGINAL | | Ultimax version |
+| Wizard of Wor    | 1983 | [Github](https://github.com/dabadab/wizardofwor) | | Full | |
 
 ### NES
 
