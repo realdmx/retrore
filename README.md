@@ -2,6 +2,8 @@
 
 A brief and incomplete list of reverse-engineered and original vintage-gaming sourcecode for systems based on my favourite CPU, the 6502.
 
+Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + peripheral sources!
+
 ### Acorn Electron
 
 | Game         | Year | Link         | Original           | RE          | Note          |
