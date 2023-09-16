@@ -117,13 +117,13 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | Game             | Year | Link         | Original           | RE         | Note          |
 | ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
 | Asteroids        | 1987 | [Github](https://github.com/videogamepreservation/asteroids-7800) | ORIGINAL | | |
-| Centipede        | 1987 ] [Github](https://github.com/videogamepreservation/centipede-7800) | ORIGINAL | | |
-| Commando         | 1989 ] [Github](https://github.com/videogamepreservation/commando-7800) | ORIGINAL | | |
-| Crossbow         | 1988 ] [Github](https://github.com/OpenSourcedGames/Atari-7800/tree/master/CROSSBOW/C) | ORIGINAL | | |
-| Dig Dug          | 1987 ] [Github](https://github.com/videogamepreservation/digdug-7800) | ORIGINAL | | |
-| Food Fight       | 1987 ] [Github](https://github.com/OpenSourcedGames/Atari-7800/tree/master/FOODFIGHT) | ORIGINAL | | |
+| Centipede        | 1987 | [Github](https://github.com/videogamepreservation/centipede-7800) | ORIGINAL | | |
+| Commando         | 1989 | [Github](https://github.com/videogamepreservation/commando-7800) | ORIGINAL | | |
+| Crossbow         | 1988 | [Github](https://github.com/OpenSourcedGames/Atari-7800/tree/master/CROSSBOW/C) | ORIGINAL | | |
+| Dig Dug          | 1987 | [Github](https://github.com/videogamepreservation/digdug-7800) | ORIGINAL | | |
+| Food Fight       | 1987 | [Github](https://github.com/OpenSourcedGames/Atari-7800/tree/master/FOODFIGHT) | ORIGINAL | | |
 | Galaga           | 1986 | [Github](https://github.com/videogamepreservation/galaga-7800) | ORIGINAL | | |
-| Hat-Trick        | 1987 ] [Github](https://github.com/videogamepreservation/hattrick-7800) | ORIGINAL | | |
+| Hat-Trick        | 1987 | [Github](https://github.com/videogamepreservation/hattrick-7800) | ORIGINAL | | |
 | Joust            | 1988 | [Github](https://github.com/videogamepreservation/joust-7800) | ORIGINAL | | |
 | Ms. PacMan       | 1986 | [Github](https://github.com/videogamepreservation/mspacman-7800) | ORIGINAL | | |
 | Robotron: 2084   | 1987 | [Github](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Atari).asm) | | Full | |
