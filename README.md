@@ -194,6 +194,7 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | Miner 2049'er    | 1983 | [csdb](https://csdb.dk/release/?id=108015) | | Full | |
 | Nemesis the Warlock | 1987 | [Github](https://github.com/milkeybabes/Nemesis-the-Warlock) | ORIGINAL | | |
 | Omega Race       | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/OMEGA) | ORIGINAL | | Ultimax version |
+| Rambo            | 1986 | [Github](https://github.com/ricardoquesada/c64-rambo) | | Full | | With patches |
 | Rampage          | 1987 | [Github](https://github.com/milkeybabes/Rampage) | ORIGINAL | | |
 | Slaine           | 1987 | [Github](https://github.com/milkeybabes/Slaine) | ORIGINAL | | |
 | Skool Daze       | 1984 | [Github](https://skoolkid.github.io/sk6502/sdc64) | | Full | |
