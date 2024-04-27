@@ -231,6 +231,7 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | Sim City         | 1991 | [Github](https://github.com/g0me3/bfs_nes_sims) | | Partial | Unreleased |
 | Super Mario Bros | 1985 | [Github](https://gist.github.com/1wErt3r/4048722) | | Full | |
 | Super Mario Bros 3 | 1990 | [Github](https://github.com/captainsouthbird/smb3) | | Full | |
+| Tecmo Super Bowl | 1991 | [Github](https://github.com/bruddog/Tecmo_Super_Bowl_NES_Disassembly) | | Full | |
 | Tetris           | 1989 | [Github](https://github.com/CelestialAmber/TetrisNESDisasm) | | Full | |
 | Zelda, The Legend Of | 1985 | [Github](https://github.com/camthesaxman/zeldasource) | | WIP | |
 | Zelda, The Legend Of | 1985 | [Github](https://github.com/aldonunez/zelda1-disassembly) | | Full | |
