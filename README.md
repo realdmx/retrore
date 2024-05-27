@@ -17,7 +17,8 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | Game         | Year | Link         | Original           | RE         | Note          |
 | ------------ | ---- | ------------ | ------------------ | ----------- | ------------- |
 | Bilestoad, The           | 1982 | [Github](https://github.com/historicalsource/bilestoad-apple2) | ORIGINAL | |
-| Bomber                   | 1986 | [6502disassembly.com](https://www.6502disassembly.com/a2-bomber)| | Full |
+| Bomber                   | 1986 | [6502disassembly.com](https://www.6502disassembly.com/a2-bomber) | | Full |
+| Choplifter               | 1982 | [Github](https://github.com/blondie7575/ChoplifterReverse) | | Full |
 | Deathmaze 5000           | 1980 | [6502disassembly.com](https://www.6502disassembly.com/a2-deathmaze) | | Full |
 | Elite                    | 1985 | [6502disassembly.com](https://www.6502disassembly.com/a2-elite)| | Partial |
 | Epoch                    | 1981 | [6502disassembly.com](https://www.6502disassembly.com/a2-epoch)| | Full |
