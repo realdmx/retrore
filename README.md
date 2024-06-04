@@ -191,7 +191,8 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | Kickman          | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/KICKMAN) | ORIGINAL | | |
 | Laser Zone       | 1983 | [Github](https://github.com/BumblingCoda/Llamasoft-Laser-Zone-WIP) | | WIP | |
 | Le Mans          | 1983 | [Github](https://gitlab.com/ricardoquesada/c64-lemans) | | Full | |
-| Lode Runner      | 1983 | [csdb](https://csdb.dk/release/?id=92529) | | Full | |
+| Lode Runner      | 1983 | [Github](https://github.com/Piddewitt/Loderunner) | | Full | |
+| Championship Lode Runner      | 1984 | [Github](https://github.com/Piddewitt/Championship_Loderunner) | | Full | |
 | Miner 2049'er    | 1983 | [csdb](https://csdb.dk/release/?id=108015) | | Full | |
 | Nemesis the Warlock | 1987 | [Github](https://github.com/milkeybabes/Nemesis-the-Warlock) | ORIGINAL | | |
 | Omega Race       | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/OMEGA) | ORIGINAL | | Ultimax version |
