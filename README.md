@@ -177,6 +177,7 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
 | Alien 3          | 1992 | [Github](https://github.com/milkeybabes/Alien3-C64) | ORIGINAL | |
 | Altered Beast    | 1989 | [Github](https://github.com/milkeybabes/Altered-Beast) | ORIGINAL | |
+| Archon           | 1983 | [Github](https://github.com/mark-akturatech/archon-c64) | | Full | |
 | Atomic Robokid   | 1990 | [Github](https://github.com/milkeybabes/Atomic-Robokid) | ORIGINAL | |
 | Attack of the Mutant Camels | 1983 | [Github](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) | | Full | |
 | Beach Head       | 1983 | [csdb](https://csdb.dk/release/?id=111671) | | Full | |
