@@ -185,6 +185,7 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | Castles of Dr. Creep III | 1984 | [csdb](https://csdb.dk/release/?id=95815) | | Full | |
 | Commando         | 1985 | [Gitlab](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) | | Full | |
 | Elite            | 1985 | [Github](https://github.com/Kroc/elite-harmless) | | Full | With patches |
+| Elite            | 1985 | [Official](http://www.elitehomepage.org/archive/index.htm) | ORIGINAL | |
 | Habitat          | 1986 | [Github](https://github.com/historicalsource/habitat) | ORIGINAL | |
 | Hunchback        | 1984 | [Github](https://github.com/C64-Mark/Hunchback) | | Full | |
 | Gridrunner       | 1983 | [Github](https://github.com/OldSkoolCoder/GridRunner-Original) | | Full | |
