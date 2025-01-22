@@ -2,13 +2,13 @@
 
 A brief and incomplete list of reverse-engineered and original vintage-gaming sourcecode for systems based on my favourite CPU, the 6502.
 
-Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + peripheral sources!
 
 ### Acorn Electron
 
 | Game         | Year | Link         | Original           | RE          | Note          |
 | ------------ | ---- | ------------ | ------------------ | ----------- | ------------- |
 | Crazee Rider | 1987 | [Github](https://github.com/historicalsource/CrazeeRiderElectron) | ORIGINAL | |
+| Elite        | 1984 | [Github](https://github.com/0xC0DE6502/electron-elite-beebasm) | | Full | |
 | Galaforce 1  | 1986 | [Github](https://github.com/historicalsource/Galaforce1Electron) | ORIGINAL | |
 | Planetoid    | 1983 | [Github](https://github.com/mikroman/planet) |   | Partial | |
 
@@ -166,6 +166,7 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | Exile            | 1988 | [Github](https://github.com/tom-seddon/exile_disassembly) | | Full | |
 | Elite            | 1984 | [Github](https://github.com/markmoxon/elite-beebasm) | ORIGINAL | | |
 | Galaforce        | 1986 | [Github](https://github.com/historicalsource/Galaforce1BBC) | ORIGINAL | | |
+| Lode Runner      | 1983 | [Github](https://github.com/0xC0DE6502/lode-runner-disassembled) | | Full | |
 | Manic Miner      | 1984 | [Github](https://github.com/TobyLobster/ManicMiner) | | Full | |
 | Revs             | 1985 | [Github](https://github.com/markmoxon/revs-beebasm) | | Full | |
 | Stunt Car Racer  | 2019 | [Github](https://github.com/kieranhj/scr-beeb) | ORIGINAL | | BBC port |
@@ -240,4 +241,7 @@ Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + 
 | Zelda, The Legend Of | 1985 | [Github](https://github.com/camthesaxman/zeldasource) | | WIP | |
 | Zelda, The Legend Of | 1985 | [Github](https://github.com/aldonunez/zelda1-disassembly) | | Full | |
 
+### Other
+
+Check out [cbmsrc](https://github.com/mist64/cbmsrc) for original 6502 kernal + peripheral sources!
 
