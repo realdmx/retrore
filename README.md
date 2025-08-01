@@ -166,6 +166,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Exile            | 1988 | [Github](https://github.com/tom-seddon/exile_disassembly) | | Full | |
 | Elite            | 1984 | [Github](https://github.com/markmoxon/elite-beebasm) | ORIGINAL | | |
 | Galaforce        | 1986 | [Github](https://github.com/historicalsource/Galaforce1BBC) | ORIGINAL | | |
+| Imogen           | 1986 | [Github](https://github.com/ZornsLemma/Imogen) | | Full | |
 | Lode Runner      | 1983 | [Github](https://github.com/0xC0DE6502/lode-runner-disassembled) | | Full | |
 | Manic Miner      | 1984 | [Github](https://github.com/TobyLobster/ManicMiner) | | Full | |
 | Revs             | 1985 | [Github](https://github.com/markmoxon/revs-beebasm) | | Full | |
