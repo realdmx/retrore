@@ -148,6 +148,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | M.U.L.E.         | 1983 | [bringerp](http://bringerp.free.fr/RE/Files/MULE%20-%20Disassembled%20Memory.zip) | | Commented | [Comprehensive document](http://bringerp.free.fr/RE/Mule/mule_document.html) |
 | Pac-Man          | 1982 | [atariwiki](https://atariwiki.org/wiki/Wiki.jsp?page=PAC-MAN) | ORIGINAL | | |
 | Pinball Construction Set | 1983 | [Github](https://github.com/billbudge/PCS_Atari800) | ORIGINAL | | |
+| Pharaoh's Curse  | 1983 | [Github](https://github.com/sarnau/Atari-PharaohsCurse) | | Full | |
 | Preppie!         | 1982 | [archive.org](https://archive.org/details/Preppie) | ORIGINAL | | |
 | Preppie! II      | 1983 | [archive.org](https://archive.org/details/Preppie_II) | ORIGINAL | | |
 | Princess and the Frog, The | 1982 | [Github](https://github.com/savetz/edfries-frog) | ORIGINAL | | |
