@@ -172,6 +172,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Manic Miner      | 1984 | [Github](https://github.com/TobyLobster/ManicMiner) | | Full | |
 | Nightworld       | 1985 | [Github](https://github.com/ZornsLemma/night-world) | | Partial | |
 | Revs             | 1985 | [Github](https://github.com/markmoxon/revs-beebasm) | | Full | |
+| Sentinel, The    | 1988 | [Github](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | | Full | |
 | Stunt Car Racer  | 2019 | [Github](https://github.com/kieranhj/scr-beeb) | ORIGINAL | | BBC port |
 | Thrust           | 1986 | [Github](https://github.com/kieranhj/thrust-disassembly) | | Full | |
 
