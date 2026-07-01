@@ -203,6 +203,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Le Mans          | 1983 | [Github](https://gitlab.com/ricardoquesada/c64-lemans) | | Full | |
 | Lode Runner      | 1983 | [Github](https://github.com/Piddewitt/Loderunner) | | Full | |
 | Championship Lode Runner      | 1984 | [Github](https://github.com/Piddewitt/Championship_Loderunner) | | Full | |
+| Monty on the Run | 1985 | [Github](https://github.com/Dave-Agent/monty-on-the-run) | | Full | |
 | Miner 2049'er    | 1983 | [csdb](https://csdb.dk/release/?id=108015) | | Full | |
 | Nemesis the Warlock | 1987 | [Github](https://github.com/milkeybabes/Nemesis-the-Warlock) | ORIGINAL | | |
 | Omega Race       | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/OMEGA) | ORIGINAL | | Ultimax version |
