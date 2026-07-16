@@ -196,6 +196,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Elite            | 1985 | [Official](http://www.elitehomepage.org/archive/index.htm) | ORIGINAL | |
 | Habitat          | 1986 | [Github](https://github.com/historicalsource/habitat) | ORIGINAL | |
 | Hunchback        | 1984 | [Github](https://github.com/C64-Mark/Hunchback) | | Full | |
+| Green Beret      | 1986 | [Github](https://github.com/cadaver/greenberet-disassembly) | | Full | |
 | Gridrunner       | 1983 | [Github](https://github.com/OldSkoolCoder/GridRunner-Original) | | Full | |
 | Iridis Alpha     | 1986 | [Github](https://github.com/mwenge/iridisalpha) | | Full | And a book! |
 | Kickman          | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/KICKMAN) | ORIGINAL | | |
