@@ -182,6 +182,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 
 | Game             | Year | Link         | Original           | RE         | Note          |
 | ---------------- | ---- | ------------ | ------------------ | ----------- | ------------- |
+| A View to a Kill | 1985 | [Github](https://github.com/unorig/AVTAK) | | Partial | |
 | Alien 3          | 1992 | [Github](https://github.com/milkeybabes/Alien3-C64) | ORIGINAL | |
 | Altered Beast    | 1989 | [Github](https://github.com/milkeybabes/Altered-Beast) | ORIGINAL | |
 | Archon           | 1983 | [Github](https://github.com/mark-akturatech/archon-c64) | | Full | |
@@ -190,12 +191,14 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Beach Head       | 1983 | [csdb](https://csdb.dk/release/?id=111671) | | Full | |
 | Bounty Bob Strikes Back | 1984 | [csdb](https://csdb.dk/release/?id=155889) | | Full | |
 | Castles of Dr. Creep III | 1984 | [csdb](https://csdb.dk/release/?id=95815) | | Full | |
+| Chiller          | 1084 | [Github](https://github.com/unorig/Chiller) | | Full | | 
 | Commando         | 1985 | [Gitlab](https://gitlab.com/ricardoquesada/c64-commando-2084/tree/orig) | | Full | |
 | Crossroads 2     | 1988 | [Github](https://github.com/MarkRdgOx/crossroads-2-disassembly/tree/master) | | Full | |
 | Elite            | 1985 | [Github](https://github.com/Kroc/elite-harmless) | | Full | With patches |
 | Elite            | 1985 | [Official](http://www.elitehomepage.org/archive/index.htm) | ORIGINAL | |
 | Habitat          | 1986 | [Github](https://github.com/historicalsource/habitat) | ORIGINAL | |
 | Hunchback        | 1984 | [Github](https://github.com/C64-Mark/Hunchback) | | Full | |
+| Ghostbusters     | 1984 | [Github](https://github.com/unorig/Ghostbusters) | | Full | |
 | Green Beret      | 1986 | [Github](https://github.com/cadaver/greenberet-disassembly) | | Full | |
 | Gridrunner       | 1983 | [Github](https://github.com/OldSkoolCoder/GridRunner-Original) | | Full | |
 | Iridis Alpha     | 1986 | [Github](https://github.com/mwenge/iridisalpha) | | Full | And a book! |
@@ -212,6 +215,7 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Rampage          | 1987 | [Github](https://github.com/milkeybabes/Rampage) | ORIGINAL | | |
 | Slaine           | 1987 | [Github](https://github.com/milkeybabes/Slaine) | ORIGINAL | | |
 | Skool Daze       | 1984 | [Github](https://skoolkid.github.io/sk6502/sdc64) | | Full | |
+| Squirm           | 1984 | [Github](https://github.com/unorig/Squirm) | | Partial | |
 | Stunt Car Racer  | 1989 | [Github](https://raw.githubusercontent.com/kieranhj/scr-beeb/master/sources/StuntCarRacerC64.lst) | | Partial | From the BBC port project |
 | Wizard of Wor    | 1982 | [Github](https://github.com/mist64/cbmsrc/tree/master/WIZARD) | ORIGINAL | | Ultimax version |
 | Wizard of Wor    | 1983 | [Github](https://github.com/dabadab/wizardofwor) | | Full | |
