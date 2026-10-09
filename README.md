@@ -59,7 +59,6 @@ A brief and incomplete list of reverse-engineered and original vintage-gaming so
 | Hat-Trick        | 1987 | [Github](https://github.com/videogamepreservation/hattrick-7800) | ORIGINAL | | |
 | Joust            | 1988 | [Github](https://github.com/videogamepreservation/joust-7800) | ORIGINAL | | |
 | Ms. PacMan       | 1986 | [Github](https://github.com/videogamepreservation/mspacman-7800) | ORIGINAL | | |
-| Robotron: 2084   | 1987 | [Github](https://github.com/fschuhi/Robotron_2084/blob/master/Disassemblies/Robotron%20(Atari).asm) | | Full | |
 | Robotron: 2084   | 1987 | [Github](https://github.com/videogamepreservation/robotron-7800) | ORIGINAL | | |
 | Sphinx           | 1987 | [Github](https://github.com/videogamepreservation/sphinx-7800) | ORIGINAL | | Nile Flyer/Desert Falcon
 | Super Stunt Cycle | 1989 | [Github](https://github.com/OpenSourcedGames/Atari-7800/tree/master/super_stunt_cycle) | ORIGINAL | | |
